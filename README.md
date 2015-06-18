@@ -1,43 +1,21 @@
+# Paris Galaxies
 
+## Installation serveur
 
-Query replace:
-\n([a-z].*\n)
-\n([1-9].*\n)
-Remplacer les sauts de ligne résiduels par des <br/> puis :
-\n([<].*\n)
+Dépendances requises :
+* NodeJS v0.10.28
+* PostgreSQL
+* Postgis
+* Bower
+* NPM
 
-$1
+Sur processeur 64 bits uniquement.
 
+Étapes à suivre une fois ces dépendances installées :
+* Cloner le repository : ```git clone https://github.com/rbwadd/parisgalaxies2.git```
+* Installer les modules NodeJS requis : ```npm install```
 
+## Installation des librairies JavaScript de l'application cliente
 
-{ type: 'Spot/Spectacle vivant',
-  label: 'LE THÉÂTRE-STUDIO',
-  city: 'Alfortville',
-  keywords: [ 'Spectacle vivant' ],
-  description: 'Le Théâtre-Studio est engagé dans la représentation d’auteurs contemporains vivants. Directeur Christian Benedetti +une coopération effective avec des réseaux et des pays européens',
-  transport: 'M° Ecole Vétérinaire de Maisons-Alfort' }
-{ type: 'Spot',
-  label: 'CENTRE ANIS GRAS / LE LIEU DE L\'AUTRE',
-  city: 'Arcueil' }
-{ type: 'Spot',
-  label: 'THÉÂTRE EQUESTRE ZINGARO',
-  city: 'Aubervilliers' }
-{ type: 'Spot/Arts visuels',
-  label: 'GALERIE RX',
-  city: 'Ivry-sur-Seine',
-  keywords: [ 'Arts visuels' ],
-  description: 'Lieu d\'exposition et de résidence artistique' }
-{ type: 'Spot/Innovation',
-  label: 'KNOWTEX',
-  city: 'Montreuil',
-  keywords: [ 'Innovation' ],
-  description: 'Knowtex is a community which explores the research advances, industrial design and technological innovations.',
-  since: '2009' }
-{ type: 'Spot/Musique',
-  label: 'FESTIVAL DES PUCES',
-  city: 'St Ouen',
-  keywords: [ 'Musique' ],
-  description: 'jazz music festival',
-  transport: 'Gare de Villepinte jusqu\'a Tennis',
-  contact: 'www.festivaldespuces.com',
-  timeFromChatelet: '51mins' }
+* Lancer la commande 'bower install'
+

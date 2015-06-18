@@ -1,0 +1,14 @@
+{
+    "name" : "paris-galaxies-map",
+    "version" : "0.2.0",
+    "dependencies" : {
+	"bootstrap": "*",
+        "jquery" : "*",
+        "underscore" : "*",
+        "q" : "1.0.0",
+        "mosaic-ui" : "git://github.com/ubimix/mosaic-ui.git",
+        "jQuery-chocolat" : "git://github.com/nicolas-t/Chocolat.git#0.4.1",  
+        "iCheck": "*",
+        "jQuery-slimScroll" : "git://github.com/rochal/jQuery-slimScroll.git#master"
+    }
+}

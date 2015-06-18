@@ -1,0 +1,13 @@
+{
+    "port" : 3711,
+    "db" : {
+        "*" : {
+            "dbname": "paris-galaxies",
+            "user": "postgres",
+            "password": "postgres",
+            "host": "localhost",
+            "port": "5432"
+        }
+        
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "je-suis-ici",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "0.0.4",
+    "csv-stringify": "0.0.3",
+    "geocoder": "*",
+    "iconv": "^2.1.4",
+    "mosaic-distil": "git://github.com/ubimix/mosaic-distil.git",
+    "pg": "*",
+    "q": "^1.0.1",
+    "underscore": "*"
+  },
+  "scripts": {
+    "run": "node download-all.js"
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  }
+}

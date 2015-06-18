@@ -1,0 +1,631 @@
+
+// == Nicolas Turlais / 2014, bonne santée
+
+// == CONSTANTS
+
+@screen-sm : 420px;
+@screen-md : 768px;
+@screen-lg : 992px;
+
+@grid-columns : 12;
+@grid-gutter-width: 15px;
+
+@violet-1 : rgb(190,181,187);
+@violet-2 : rgb(193,0,123);
+@violet-3 : rgb(107,26,87);
+
+@color-1 : @violet-2;
+@switcher-height : 30px;
+@topbar-height : 170px;
+@responsive-topbar-height : 70px;
+@bottom-height : 35px;
+@tab-width : 60px;
+
+
+
+// == CSS RESET
+ 
+@import "reset.less";
+
+// == COMMON MIXINS
+
+@import "common-mixins.less";
+
+// == RESPONSIVE UTILITIES
+
+@import "responsive-utilities.less";
+
+// == GRID
+
+@import "grid.less";
+
+// == POPOVER
+
+@import "popover.less";
+
+// == MODAL
+
+@import "modal.less";
+
+
+// == MAIN
+
+//@import url('../../app/main.css');
+
+// == ICHECK
+
+@import "icheck.less";
+
+
+// == CODE YOLO
+
+@font-face {
+  font-family: 'MuseoFont';
+  src: url('../fonts/MuseoFont/MuseoSans-300.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, html{
+    height: 100%;
+    font-family: 'MuseoFont', Arial;
+}
+
+#MapView {
+    top: @topbar-height;
+    background-color: white;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 25%;
+    background-color: #eee;
+        
+}
+    
+.wrapper{
+    height: 100%;
+}
+.full-height {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+  overflow: hidden;
+}
+.icon-loupe{
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: url(../images/icon-loupe.png) 50% 50% no-repeat;
+}
+.icon-reset{
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background: url(../images/icon-reset.png) 50% 50% no-repeat;
+}
+.cube{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 9px;
+
+    &.cube-1{
+        background-image: url(../images/Cube1.png);
+    }
+    &.cube-2{
+        background-image: url(../images/Cube2.png);
+    }
+    &.cube-3{
+        background-image: url(../images/Cube3.png);
+    }
+    &.cube-4{
+        background-image: url(../images/Cube4.png);
+    }
+    &.cube-5{
+        background-image: url(../images/Cube5.png);
+    }
+    &.cube-6{
+        background-image: url(../images/Cube6.png);
+    }
+    &.cube-7{
+        background-image: url(../images/Cube7.png);
+    }
+    &.cube-8{
+        background-image: url(../images/Cube8.png);
+    }
+}
+.bouton{
+    background-color:#1a1249;
+    color:gray;
+    border-color:#4f4465; 
+    border-radius:16px;
+    margin-bottom:5px; 
+    margin-top:35px;
+    font-size:12px;
+    width:130px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+    display: inline-block;
+}
+.top-zone{
+    .gradient(top, #3a2b3e, #0a0442);
+    height: @topbar-height;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1001;
+    .about{
+        display: inline-block;
+        padding-top: 15px;
+        padding-right: 20px;
+    }
+    .header{
+        .box-sizing();
+        height: @topbar-height;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        img{
+            width: 100%;
+            max-width : 950px;
+        }
+    }
+    .menu-mobile{
+        .box-sizing;
+        height: @responsive-topbar-height;
+        padding-left: 10px;
+        .logo-mobile{
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+        h1{
+            text-transform: uppercase;
+            color: #fff;
+            font-size: 23px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            display: block;
+            line-height: @responsive-topbar-height;
+            padding-left: 15px;
+        }
+        .switcher{
+            text-align: center;
+            .toggle-sidebar{
+                height: @responsive-topbar-height;
+                line-height: @responsive-topbar-height;
+                width: 65px;
+                text-align: center;
+                display: inline-block;
+                color: #fff;
+                background: #000;
+                padding:0 10px;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+        }
+        .popover-trigger{
+            height: @responsive-topbar-height;
+            line-height: @responsive-topbar-height;
+            color: #fff;
+            width: @responsive-topbar-height;
+            background: url(../images/burger.png) 50% 50% no-repeat #000;
+
+            &.popover-active{
+                //.box-shadow(0px 0px 4px rgba(0,0,0,0.5) inset);
+                background: url(../images/burger-neg.png) 50% 50% no-repeat #fff;
+            }
+        }
+    }
+
+}
+.middle-zone{
+    .box-sizing();
+    position: fixed;
+    height: 100%;
+    right: 0;
+    left: 0;
+    padding-top: @topbar-height;
+
+    #MapView {
+        position: fixed;
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
+.left-zone{
+    padding-top: @topbar-height;
+    position: fixed;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    max-width:400px;
+    z-index: 1000;
+    background: fade(#160e46,80%);
+
+    .left-zone-content{
+        display: none;
+        &.open{
+            display: block;
+            min-height: 100%;
+        }
+    }
+    .categories{
+        padding: 0 10px;
+        padding-right: 15px;
+        padding-bottom: 8px;
+
+        .category{
+            .icon{
+                display: inline-block;
+                height: 21px;
+                line-height: 21px;
+                width: 25px;
+                margin-right: 10px;
+            }
+            .checkb{
+                display: inline-block;
+                height: 21px;
+                line-height: 21px;
+
+                input{
+                    margin: 0;
+                    display: inline-block;
+                }
+
+            }
+            .label{
+                display: inline-block;
+                font-family: 'MuseoFont';
+                height: 25px;
+                line-height: 25px;
+                text-transform: uppercase;
+                color: #fff;
+                font-size: 13px;
+                .em{
+                    font-style: italic;
+                }
+                font-weight:normal;
+            }
+        }
+    }
+    .searchbar{
+        background: #000;
+        border-top: 1px dashed #fff;
+        border-bottom: 1px dashed #fff;
+        margin-top: 10px;
+        position: relative;
+        height: 30px;
+        .icon-loupe{
+            position: absolute;
+            right: 75px;
+            top: 7px;
+            cursor: pointer;
+        }
+        .icon-reset{
+            position: absolute;
+            right: 55px;
+            top: 7px;
+            cursor: pointer;
+        }
+        .input-wrapper{
+            position: absolute;
+            top: 5px;
+            bottom: 4px;
+            left: 50px;
+            right: 50px;
+            input{
+                .border-radius(7px);
+                .box-shadow(0 0 0px);
+                border:0;
+                width: 100%;
+                font-size: 12px;
+                padding-left: 5px;
+                padding-right: 5px;
+                height: 18px;
+                padding-right: 50px;
+            }
+        }
+
+    }
+
+    .places{
+        padding: 10px 0;
+        padding-right: 0px;
+        overflow-y: auto;
+        overflow-x: hidden;
+        
+        .place{
+            .clearfix;
+            color: #fff;
+            font-size: 13px;
+            padding: 5px 0px 5px 5px;
+            border-bottom: 1px dotted #fff;
+            .image{
+                //.border-radius(40px);
+                width: 80px;
+                height: 80px;
+                overflow: hidden;
+                background-position: 50% 50%;
+                background-repeat: no-repeat;
+                -webkit-background-size: cover;
+                background-size: cover;
+                margin-bottom: 0px;
+                z-index: 2;
+                position: relative; //z-index needs to be accompanied by 'position' for it to take effect.
+                margin-right: 0.5em; 
+            }
+            .desc{
+                .number{
+                    .the-number{
+                        .border-radius(20px);
+                        height: 20px;
+                        width: 20px;
+                        background: #000;
+                        line-height: 20px;
+                        text-align: center;
+
+                    }
+                }
+                .text{
+                    padding-left: 5px;
+                    margin-left: 25px;
+                    font-family: 'MuseoFont';
+                    line-height: 1.2;
+                    z-index: 0;
+                    .title{
+                        text-transform: uppercase;
+                    }
+                    a{
+                        color: #fff;
+                    }
+                    .url.right{
+                        display: none;
+                    }
+                    .from.right{
+                        display: none;
+                    }
+                    .description{
+                        display: none;
+                        padding-top: 15px;
+                    }
+                    .acces {
+                        white-space: nowrap;
+                        overflow: hidden;
+                        
+                    }
+                }
+                .slideshow{
+                    margin-top: 15px;
+                    display: none;
+                    position: relative;
+                    height: 150px;
+
+                    .une-image{
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        right: 0.5em;
+                        bottom: 0;
+                        display: none;
+                        -webkit-background-size: cover;
+                        background-size: cover;
+                        background-position: 50% 50%;
+                        background-repeat: no-repeat;
+                    }
+                    .go-right{
+                        z-index: 1;
+                        position: absolute;
+                        right: 0;
+                        top: 50%;
+                        height: 25px;
+                        width: 15px;
+                        margin-top: -12px;
+                        background: #000;
+                        color: #fff;
+                        cursor: pointer;
+                        text-align: center;
+                        line-height: 25px;
+                    }
+                    .go-left{
+                        z-index: 1;
+                        position: absolute;
+                        left: 0;
+                        top: 50%;
+                        height: 25px;
+                        width: 15px;
+                        margin-top: -12px;
+                        background: #000;
+                        color: #fff;
+                        cursor: pointer;
+                        text-align: center;
+                        line-height: 25px;
+                    }
+                }
+            }
+
+            &.open{
+                .image{
+                    display: none;
+                }
+                .desc{
+                    .text{
+                        .url{
+                            display: none;
+                        }
+                        .url.right{
+                            display: block;
+                            text-transform: none;
+                        }
+                        .from.right{
+                            display: block;
+                        }
+                        .description{
+                            display: block;
+                        }
+                        
+                        .acces {
+                            white-space: normal;
+                        }
+                    }
+                    .slideshow{
+                        display: block;
+                    }
+                }
+            }
+        }
+    }
+}
+.spot {
+    background-color: #1a1249;
+    color: #ccc;
+    border-bottom: 1px dotted #ccc;
+}
+
+.vignette {
+    float: right;
+    display: table;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.vignette div.cell {
+    border-radius: 50%;
+    overflow: hidden;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.vignette div.image {
+    width:100px;
+    height:100px;
+    
+}
+
+.vignette div.image img {
+    height:100%;
+}
+
+#list {
+    background-color: #1a1249;
+    opacity: 0.9;
+}
+
+.spot h3 {
+    font-size: 14px;
+}
+
+
+.leaflet-popup-content-wrapper {
+    background-color: #1a1249;
+    color: #ccc;
+    opacity: 0.9;
+    font-family: MuseoFont;
+    font-size:14px;
+    padding:10px;
+}
+
+.leaflet-popup-content h3 {
+    text-align: center;
+    font-size:14px;
+    margin: 0px;    
+}
+
+.leaflet-popup-content p {
+margin: 0px;
+text-align: center;
+}
+.leaflet-popup-tip {
+    display: none;
+
+}
+
+.left-zone .places .place .desc .number .the-number {
+    font-size: 10px;
+    font-weight: bold;
+
+}
+
+em {
+font-style: italic;
+}
+
+// == POPOVER
+
+.popover-topzone-menu{
+    .popover-content{
+        .box-shadow(0px 1px 4px rgba(0,0,0,0.05));
+        background: #fff;
+        border-bottom: 1px solid #E5E5E5;
+        padding: 0;
+        li{
+            text-transform: uppercase;
+            font-size: 10px;
+            border-bottom: 1px solid #F0F0F0;
+            a{
+                display: block;
+                padding: 12px;
+                font-size: 13px;
+                color: #000;
+                &:hover{
+                    background: #F9F9F9;
+                }
+            }
+        }
+    }
+}
+// == MEDIAQUERIES 
+
+@media (max-width: @screen-lg) {
+    .wrapper{
+        .top-zone{
+            height: @responsive-topbar-height;
+            .menu-mobile{
+                display: block;
+                .switcher{
+                    display: none;
+                }
+            }
+            .menu-desktop{
+                display: none;
+            }
+        }
+        .middle-zone{
+            padding-top: @responsive-topbar-height;
+        }
+        .left-zone{
+            padding-top: @responsive-topbar-height;
+        }
+    }
+    
+    #MapView {
+        top: @responsive-topbar-height;
+    }
+}
+@media (max-width: @screen-md) {
+    .wrapper{
+        .top-zone{
+            .menu-mobile{
+                .switcher{
+                    display: block;
+                }
+            }
+        }
+        .left-zone{
+            padding-top: @responsive-topbar-height;
+            max-width: 100%;
+        }
+    }
+    
+    #MapView {
+        top: @responsive-topbar-height;
+    }
+}

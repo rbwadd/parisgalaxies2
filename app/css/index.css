@@ -1,0 +1,128 @@
+html,body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+	background-color: rgba(22, 14, 70);
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+	width: 6px;
+	background-color: rgba(22, 14, 70);
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #fff;
+	border-radius: 10px;
+}
+
+#list {
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+#map {
+	
+}
+
+.panel {
+	margin-bottom: 0;
+}
+
+.panel .panel-body h4 {
+	font-size: 1.3em;
+	margin: 0 0 0.5em 0;
+	color: gray;
+}
+
+address {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.photo-wrapper img {
+	max-height: 200px;
+	border: 1px solid silver;
+	-webkit-box-shadow: 2px 2px 11px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow: 2px 2px 11px 0px rgba(50, 50, 50, 0.75);
+	box-shadow: 2px 2px 11px 0px rgba(50, 50, 50, 0.75);
+}
+
+.leaflet-popup-content-wrapper {
+	padding: 2px 17px 2px 17px;
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content {
+	margin: 0;
+}
+
+.leaflet-popup-content-wrapper .leaflet-popup-content .panel {
+	margin-bottom: 0;
+	border: none;
+}
+
+.leftbox {
+	position: absolute;
+	left: 0px;
+	top: 55px;
+}
+
+.category-icon {
+	width: 1.5em;
+}
+
+.field-label {
+	color: gray;
+}
+
+p,h3 {
+	margin: 0.5em 0;
+}
+
+.leaflet-touch a.leaflet-control-zoom-in,a.leaflet-control-zoom-in,a.leaflet-control-zoom-out,a.leaflet-control-zoom-out
+	{
+	width: 34px;
+	height: 34px;
+	border-radius: 50% !important;
+	text-align: center;
+	padding-top: 3px;
+	background-color: #a8a9ac !important;
+}
+
+.leaflet-control-zoom.leaflet-bar a,.leaflet-control-zoom.leaflet-bar a:hover
+	{
+	width: 34px;
+	height: 34px;
+	border-radius: 50% !important;
+	padding-top: 3px;
+	border-bottom: none;
+}
+
+.leaflet-control-zoom.leaflet-bar {
+	box-shadow: none;
+	border-radius: 0;
+	border:0px;
+}
+
+.leaflet-control-zoom.leaflet-bar a:last-child {
+	border-bottom: inherit;
+	margin-top: 10px;
+}
+
+.leaflet-right {
+	right: 20px;
+}
+
+.leaflet-top {
+	top: 20px;
+}
+
+.left-zone .places .place .desc:hover {
+	cursor: pointer;
+}

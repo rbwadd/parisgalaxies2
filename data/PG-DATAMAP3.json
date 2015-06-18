@@ -1,0 +1,4642 @@
+[
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "CENTRE CULTUREL D'ACHERES",
+    "city": "Achères",
+    "keywords": [
+      "Education"
+    ],
+    "description": "L'Espace Jean Cocteau propose de nombreuses activités pour tous les âges ainsi que des stages.Le CCA vous propose des activités culturelles et créatives pour enfants et adultes.",
+    "location": "Place Georges Brassens<br/>78260 ACHERES France",
+    "transport": "RER A / Achères-Ville, Ligne 5 et ligne 24, descendre à la gare Achères Ville",
+    "contact": "01 39 11 65 77, ccca@orange.fr,",
+    "since": "1969",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LE SAX",
+    "city": "Achères",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "espace musique",
+    "location": "2 rue des Champs, 78260 Achères",
+    "transport": "RER A direction Cergy-le-Haut, descendre à Achères Ville, 15 min à pied ou bus direction centre ville (place du marché). Noctilien (N150, N151, N152)",
+    "contact": "01 39 11 86 21 resa.lesax@wanadoo.fr",
+    "since": "1991",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LA MUSE EN CIRCUIT",
+    "city": "Alfortville",
+    "keywords": [
+      "Musique",
+      "Innovation"
+    ],
+    "description": "Centre National de Création Musicale :   Enable artists to develop a project or a specific creative music work by providing the facilities and the technical skills of La Muse en Circuit.",
+    "location": "18 rue Marcelin Berthelot Alfortville 94140",
+    "transport": "M° 7 -  Ecole Vétérinaire de Maisons-Alfort",
+    "contact": "01 43 78 80 80 info@alamuse.com http://www.alamuse.com/",
+    "since": "1982",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE THÉÂTRE-STUDIO",
+    "city": "Alfortville",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Le Théâtre-Studio est engagé dans la représentation d’auteurs contemporains vivants. Directeur Christian Benedetti +une coopération effective avec des réseaux et des pays européens",
+    "transport": "M° Ecole Vétérinaire de Maisons-Alfort"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "CENTRE CULTUREL CHATEAU SARRAN",
+    "city": "Antony",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Le Château Sarran offre aux Antoniens un cadre privilégié, en prise directe avec la nature et propice à l’inspiration",
+    "location": "12 Rue Prosper Legouté 92160 Antony",
+    "contact": "http://www.ville-antony.fr/chateau-sarran 01 40 96 64 40 ou 64 41",
+    "since": "2010",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAISON DES ARTS D'ANTONY",
+    "city": "Antony",
+    "keywords": [
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "La Maison des Arts développe une programmation in-situ et hors les murs dans le domaine des arts plastiques, un lieu de pédagogie et d'initiation artistique.",
+    "location": "20 rue Velpeau 92160 Antony",
+    "transport": "RER B - Antony",
+    "contact": "http://www.ville-antony.fr/maison-des-arts",
+    "since": "N/A",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot",
+    "label": "CENTRE ANIS GRAS / LE LIEU DE L'AUTRE",
+    "city": "Arcueil"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "ESPACE JEAN VILAR",
+    "city": "Arcueil",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "Festival Les Ecrans Documentaires.",
+    "location": "L’Espace municipal Jean Vilar<br/>1, rue Paul Signac<br/>94110 ARCUEIL",
+    "transport": "RER B (zone 3) Arcueil-Cachan / Bus : n°187 (arrêt « Cachan RER ») et n°162 et 184 (arrêt « Cité Jardins »)",
+    "contact": "http://www.lesecransdocumentaires.org http://espace-jean-vilar.com/",
+    "since": "2002",
+    "timeFromChatelet": "27mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE MUNICIPALE JULIO GONZALEZ",
+    "city": "Arcueil",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "galerie Art contemporain",
+    "location": "21, Avenue Paul Doumer, 94110, Arcueil",
+    "transport": "RER B - Laplace",
+    "contact": "01 46 15 09 75 www.arcueil.fr galerie-gonzalez@mairie-arcueil.fr",
+    "since": "1992",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "MOVINMOTION (Platform)",
+    "city": "Arcueil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Movinmotion est une plateforme web dédiée aux professionnels de l'audiovisuel et du spectacle, qui simplifie le recrutement et la gestion administrative des équipes.",
+    "location": "44 rue de Cauchy<br/>94 110 Arcueil",
+    "transport": "RER B - direction Massy-Palaiseau - Arrêt Laplace",
+    "contact": "06 15 13 23 96  louise@movinmotion.com/www.movinmotion.com",
+    "since": "2011",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Performance",
+    "label": "1, 2, 3, contez ! Festival",
+    "city": "Asnieres",
+    "keywords": [
+      "Performance"
+    ],
+    "description": "Festival",
+    "location": "6, Rue Louis Armand, 92600 Asnières",
+    "transport": "Métro 13 -  Arrêt Gabriel Péri",
+    "contact": "01 41 11 14 21",
+    "since": "2009"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LA SIRA / MAD AGENCY",
+    "city": "Asnières",
+    "keywords": [
+      "Arts visuels",
+      "Musique"
+    ],
+    "description": "La SIRA s’inscrit dans l’idée de faire le trait d’union entre Paris et sa banlieue à travers la culture. Collectif d'Artistes. Exposition, Fêtes electro, After parties.",
+    "location": "6, Rue Louis Armand, 92600 Asnières",
+    "transport": "RER C - ‘Les Grésillons’",
+    "contact": "http://madagency.fr/ contact@madagency.com",
+    "since": "2010",
+    "timeFromChatelet": "53mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "ESPACE FRANTERNITÉ - MAGIC MIRROR",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Festival Aubercail : Come hum, sing, dance and twirl in the tent of the Festival des mots-dits.",
+    "location": "12 rue Madeleine Vionnet - 93300 Aubervilliers",
+    "transport": "Métro 12 - Front Populaire",
+    "contact": "http://www.aubercail.fr/infos_resa.php 09 66 90 75 95",
+    "since": "2007",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "FESTIVAL MUSIQUES DU MONDE",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Association entre plusieurs villes autour Paris.",
+    "location": "4 Avenue de la Division Leclerc <br/>93300 Aubervilliers",
+    "contact": "tel. 01 48 36 34 02 <br/>info@villesdesmusiquesdumonde.com Monday to Friday: 10h/18h",
+    "since": "1997",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "PRINTEMPS MUSICAL",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A festival dedicated to the arrival of spring through the patrimonial artform of organ music.",
+    "location": "1 Rue de la Commune de Paris Aubervilliers",
+    "transport": "RER B - La courneuve-Aubervilliers",
+    "contact": "http://www.aubervilliers.fr/actu90107.html  01 48 39 52 46 http://culture.aubervilliers.fr/2013/08/08/printemps-musical-2014/",
+    "since": "2003",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "LABORATOIRES D'AUBERVILLIERS",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Education",
+      "Innovation"
+    ],
+    "description": "Lieu de recherche et de <br/>création",
+    "location": "41, rue Lécuyer<br/>93300 Aubervilliers",
+    "transport": "Métro 7 - Aubervilliers Pantin (4 chemins)",
+    "contact": "33(0)1 53 56 15 90<br/>info@leslaboratoires.org www.leslaboratoires.org",
+    "since": "2001",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Architecture (urbanisme)",
+    "label": "ROZO ARCHITECTURE",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Architecture (urbanisme)"
+    ],
+    "description": "architecture,urbanism,paysage",
+    "location": "2 rue chapon 93330",
+    "transport": "Mérto 7 - Aubervilliers",
+    "contact": "info@rozo-archi.com www.rozo-archi.fr/‎",
+    "since": "2008",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THÉÂTRE DE LA COMMUNE",
+    "city": "Aubervilliers",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "location": "41 rue Lécuyer, 93300 Aubervilliers",
+    "transport": "Métro 7 - Aubervilliers Pantin navette gratitute pour retouner a paris.",
+    "contact": "http://www.theatredelacommune.com/ 0)1.48.33.16.16",
+    "since": "1960",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot",
+    "label": "THÉÂTRE EQUESTRE ZINGARO",
+    "city": "Aubervilliers"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot",
+    "label": "VILLA MAIS D'ICI",
+    "city": "Aubervilliers",
+    "description": "Friche Culturelle de Proximité",
+    "location": "77 rue des Cités - 93300 - Aubervilliers",
+    "transport": "Métro 7 -  Aubervilliers Pantin Quatre Chemins",
+    "contact": "administration@villamaisdici.org; Tel : 01 41 57 00 89"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LE CAP",
+    "city": "Aulnay-sous-bois",
+    "keywords": [
+      "Musique",
+      "Education",
+      "Spectacle vivant"
+    ],
+    "description": "Le Cap, lieu de diffusion entièrement dédié aux musiques actuelles offre à découvrir une programmation éclectique et dynamique à travers la musique, la danse ou encore des spectacles jeunes publics.Le Cap est aussi un laboratoire d'expérimentations musicales,",
+    "location": "56 rue Auguste Renoir<br/>93600 Aulnay-sous-Bois",
+    "transport": "Gare de Villepinte jusqu'a Tennis",
+    "contact": "01 48 66 40 38 <br/>lecap@aulnay-sous-bois.com www.aulnay-sous-bois.fr/culture/le-cap",
+    "since": "2012",
+    "timeFromChatelet": "1h01"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "AUVERS'JAZZ",
+    "city": "Auvers-sur-Oise",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "Festival de Jazz",
+    "location": "Maison de L'Ile<br/>rue Marcel Martin<br/>95430 Auvers sur Oise",
+    "transport": "RER C - Pontoise. Correspondance à Pontoise direction Persan-Beaumont, arrêt à Auvers sur OIse.",
+    "contact": "01 34 48 00 10 : info@auversjazz.com http://www.auversjazz.com/",
+    "since": "1991",
+    "timeFromChatelet": "1h04mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FESTIVAL JAZZ AU FIL DE L'OISE",
+    "city": "Auvers-sur-Oise",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "Festival de Jazz",
+    "location": "8 D Les Plants Orange<br/>95000 Cergy",
+    "transport": "RER A - Cergy-Prefecture",
+    "contact": "01 34 48 45 03 / 06 37 24 90 34  <br/>infos@jafo95.com http://jafo95.wix.com/",
+    "since": "1996",
+    "timeFromChatelet": "1h07"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "BABS GALERIE",
+    "city": "Bagnolet",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "espace d'exposition artistique",
+    "location": "83, rue Sadi Carnot BAGNOLET",
+    "transport": "Line 3 - Gallieni",
+    "contact": "06 52 58 57 42 https://www.facebook.com/Babsgalerie",
+    "since": "2013",
+    "timeFromChatelet": "36mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "FREE ART BUREAU",
+    "city": "Bagnolet",
+    "keywords": [
+      "Innovation",
+      "Education"
+    ],
+    "description": "a non-profit foundation active in and promoting new practices in open culture.Research / Innovate / Create / Educate.",
+    "location": "Nomade // La Fonderie de l'Image, 83 Avenue Gallieni, 93170 Bagnolet",
+    "contact": "info@freeartbureau.org www.freeartbureau.org",
+    "since": "2011",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "KOSMOPOLITE",
+    "city": "Bagnolet",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Festival international de graffiti",
+    "location": "110 rue Sadi Carnot 93170 Bagnolet",
+    "contact": "kosmo10ans@gmail.com, www.kosmo-art-tour.com/fr/paris.html",
+    "since": "2002",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE L'ECHANGEUR",
+    "city": "Bagnolet",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "un laboratoire où les artistes disposent de temps pour chercher, expérimenter et inventer sans obligation de production.",
+    "location": "59, avenue du Général de Gaulle<br/>93170 BAGNOLET",
+    "transport": "Métro 3 : Gallieni BUS 76, 102, 318 / Gll de Gaulle Vélib : rue du Château à 50m",
+    "contact": "http://www.lechangeur.org/ 01.43.62.71.20 info@lechangeur.org",
+    "since": "1994",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CLINQUE DES ARTS BIS",
+    "city": "Bagnolet",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "La Clinique des Arts Bis est une plate-forme pluridisciplinaire de créations et de diffusion artistique. La programmation est libre, et nous soutenons des projets personnels et collectifs dans tous les domaines artistiques.",
+    "location": "60 avenue Gambetta<br/>93170 Bagnolet",
+    "transport": "Metro 3 : Gallieni",
+    "contact": "07 61 43 36 41<br/>lacliniquedesartsbis@yahoo.fr",
+    "since": "N/A",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "CAMPUS FONDERIE DE L'IMAGE",
+    "city": "Bagnolet",
+    "keywords": [
+      "Education",
+      "Design",
+      "Arts visuels",
+      "Innovation"
+    ],
+    "description": "A space to be trained for a career in visual communications and multimedia learning",
+    "location": "80 rue Jules Ferry<br/>93170 Bagnolet",
+    "transport": "Métro 3 : Gallieni",
+    "contact": "http://www.campusfonderiedelimage.org/ contact@campusfonderiedelimage.org",
+    "since": "1991",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "CANAL 93",
+    "city": "Bobigny",
+    "keywords": [
+      "Musique",
+      "Education"
+    ],
+    "description": "Canal 93 est une salle dédiée aux Musiques Actuelles.(salle de spectacle, studio de repetition et danse,",
+    "location": "63, avenue Jean Jaurès 93000 Bobigny",
+    "transport": "Métro 5 : Pablo Picasso Tram T1 : Libération.  Bus 301 : Louise Michel, Bus 322 : Jean Jaurès , Bus 147 : La Folie Bus Nuit N13 et N45",
+    "contact": "http://www.canal93.net/",
+    "timeFromChatelet": "1h01mins MC93",
+    "undefined": "55mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "UNIVERSITÉ PARIS 13",
+    "city": "Bobigny",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Ecole pour les jeux vidéo",
+    "location": "1, rue de Chablis<br/>93017 Bobigny",
+    "transport": "Tram 1 : Drancy Avenir",
+    "contact": "Tél. : 01 48 38 73 29<br/>src.iutbuniv@paris13.fr",
+    "since": "2009"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALLERIA CONTINUA",
+    "city": "Boissy-le-Châtel",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "dédié à la création contemporaine",
+    "location": "46 rue de la Ferté Gaucher<br/>77169 Boissy-le-Châtel",
+    "transport": "Train from Gare de l’Est to Coulommiers.Then bus exiting the station towards la Ferté Gaucher, stop : Moulin de Boissy / Chailly-Boissy-le-Châtel.",
+    "contact": "Tel. +33(0)1.64.203950<br/>lemoulin@galleriacontinua.fr http://www.galleriacontinua.com/",
+    "since": "2007",
+    "timeFromChatelet": "2hours"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "AU COMTE",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "Specializing in fine french cuisine.",
+    "location": "9, av Jean-Baptiste Clément, 92100, Boulogne-Billancourt",
+    "transport": "Métro 10 : Boulogne-Jean-Jaures",
+    "contact": "01 46 03 47 27 http://aucomte.fr/ contact@aucomte.fr",
+    "since": "n/a",
+    "timeFromChatelet": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "BBMIX",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "secouer l’Ouest parisien avec sa programmation transversale et toujours surprenante.",
+    "location": "Carré Belle-Feuille<br/>60 rue de la Belle-Feuille<br/>92100 Boulogne Billancourt",
+    "transport": "Métro 9 : Marcel Sembat",
+    "contact": "http://bbmix.org/ bbmix@mairie-boulogne-billancourt.fr",
+    "since": "2005",
+    "timeFromChatelet": "37mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CAFE DES ARTS",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Arts visuels",
+      "Fooding"
+    ],
+    "description": "A gallery space which also functions as a cafe.",
+    "location": "7, ront point Rhin et Danube, 92100 Boulogne-Billancourt",
+    "transport": "Métro 10 : Pont de Saint-Cloud / Tram (T2) : Parc de Saint-Cloud",
+    "contact": "01 46 05 18 20 http://www.cafe-desarts.com/",
+    "since": "n/a",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "CAP SEGUIN",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "Inventive cuisine dishes that continuously change depending on the market.",
+    "location": "Face au 24/26, quai Alphonse Le Gallo - Boulogne-Billancourt",
+    "transport": "Metro 10 : Boulogne Pont de Saint-Cloud",
+    "contact": "http://capseguin.com/",
+    "since": "1993",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "CAPTIVE STUDIOS",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Prestataire pour les jeux vidéo",
+    "location": "90 rue d’Aguesseau<br/>92100 Boulogne-Billancourt",
+    "transport": "Line 10 : Boulogne Jean Jaures",
+    "contact": "contact@captive-studio.com<br/>http://www.captive-studio.com/",
+    "since": "2009",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "CIRQUE EN CHANTIER",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "cirque",
+    "location": "Ile Seguin BP 70030<br/>92100 Boulogne-Billancourt",
+    "transport": "Metro 9 : Pont de Sèvres, Billancourt, Marcel Sembat ou Porte de Saint-Cloud; Metro 10 : Pont de Saint-Cloud",
+    "contact": "http://cirqueenchantier.com/ Tel : 09 66 93 65 97<br/>administration@cirqueenchantier.com",
+    "since": "2011",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "ESPACE LANDOWSKI (LES ATELIERS D’ARTS PLASTIQUES)",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Cinema",
+      "Arts visuels"
+    ],
+    "description": "centre culturelle",
+    "location": "28, Avenue André Morizet, Boulogne 92100",
+    "transport": "Metro 9 : Marcel Sembat",
+    "since": "1951",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "FONDATION LOUIS VUITTON",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "A culture and art center which is built by Fondation Louis Vuitton to encourage the promotion of art.",
+    "location": "Bois de Boulogne/Jardin d'acclimatation Bois de Boulogne, 75116 Paris",
+    "transport": "Métro 1 : Les Sablons (Jardin d'acclimatation)",
+    "contact": "info@fondationlouisvuitton.fr",
+    "since": "2008",
+    "timeFromChatelet": "26mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE MONDAPART",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "la galerie MondapArt s'adresse aux collectionneurs, amateurs d'art et aux personnes désireuses d'aller à la rencontre de l'art vivant.",
+    "location": "80 rue du Château <br/>92100 Boulogne Billancourt",
+    "transport": "Metro 10 : Boulougne Jean Jaurès",
+    "contact": "contact@mondapart.com  09 52 77 76 41",
+    "since": "2007",
+    "timeFromChatelet": "37mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "L'HUMOUR EN CAPITALES",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Festival",
+    "location": "86, rue Thiers 92100 Boulogne Billancourt",
+    "transport": "N/A",
+    "contact": "www.humourencapitales.com",
+    "since": "2006",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE CARRE BELLE-FEUILLE",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "lieu de spectacles",
+    "location": "60, Rue de la Belle Feuille, 92100, Boulogne-Billancourt",
+    "transport": "Métro 9 : Marcel Sembat",
+    "contact": "01 55 18 54 00 www.boulognebillancourt.fr",
+    "since": "2008",
+    "timeFromChatelet": "38mins R4",
+    "undefined": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE & VIE",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "theatre",
+    "location": "4, Square de l'Avre   92100  Adresse des cours : 11, rue de Clamart à Boulogne-Billancourt",
+    "transport": "RER C- Issy- Val de seine ou ligne 9 Marcel Sambat",
+    "contact": "01 46 20 01 07  -  06 80 07 18 15 theatretvie@free.fr",
+    "since": "1995",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "VOZ'IMAGE",
+    "city": "Boulogne-Billancourt",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "gallerie photographie",
+    "location": "4 avenue du Maréchal Juin 92100 Boulogne Billancourt",
+    "transport": "Métro 9 : Boulogne-Jean Jaurès<br/>Bus 52 : arrêt Rue Pasteur<br/>Bus 72 : arrêt Victor Hugo; Station vélib : 55 boulevard Jean Jaurès",
+    "contact": "01 41 31 40 55 http://www.vozgalerie.com/",
+    "since": "2011",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "AU SUD DU NORD",
+    "city": "Bouray-sur-Juine",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "organisation de concerts / festival et programmation",
+    "location": "55, rue Haute 91850 Bouray-sur-Juine",
+    "transport": "RER C--->Saint-Martin d'Etampes->Gare de Lardy<br/>direction La Montagne<br/>jusqu’à Renault",
+    "contact": "09 51 56 98 83 http://www.ausuddunord.fr http://www.facebook.com/ausuddunord",
+    "since": "1994",
+    "timeFromChatelet": "1 h 29 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CAC-BRÉTIGNY",
+    "city": "Bretigny sur Orge",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre d’art contemporain",
+    "location": "Espace Jules Verne, Rue Henri Douard 91220 Brétigny sur Orge",
+    "transport": "RER C Brétigny sur orge",
+    "contact": "info@cacbretigny.com(33) 01 60 85 20 76 www.cacbretigny.com/",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DES OISEAUX",
+    "city": "Buchelay",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Production et création de nombreux spectacles avec des artistes comédiens, musiciens, circassiens et danseurs.",
+    "location": "Maison du village – Place Jules Trolliard – 78200 Buchelay",
+    "transport": "Train- Gare de buchelay",
+    "contact": "http://theatredesoiseaux.fr/ 01 30 94 51 64 theatredesoiseaux@wanadoo.fr",
+    "since": "1994",
+    "timeFromChatelet": "1h17mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "CHATEAU VANDERBILT",
+    "city": "Carrières-sous-Poissy",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Artists in residence from various disciplines involving digital creation, networking amongst cultural actors and reviving the local territory and social fabric.",
+    "location": "Rue Des Frères-tissier, CarriÈres-sous-poissy 78955",
+    "transport": "RER A :  Poissy",
+    "contact": "01 40 34 02 48",
+    "since": "2014",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE NATIONALE SUPERIEURE D'ARTS DE PARIS CERGY",
+    "city": "Cergy",
+    "keywords": [
+      "Education",
+      "Arts visuels"
+    ],
+    "description": "L'une des deux plus importante école d'Art du Grand Paris.",
+    "location": "2 Rue des Italiens, 95800 Cergy",
+    "transport": "RER A : Cergy Prefrecture",
+    "contact": "http://www.ensapc.fr/ (0)1 30 30 54 44, accueil@ensapc.fr",
+    "since": "1975",
+    "timeFromChatelet": "52mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LE CARREAU",
+    "city": "Cergy",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Lieu culturel, espace des arts visuels de la ville de Cergy",
+    "location": "Avenue des Trois Fontaines<br/>Parking du Marché Neuf (rue aux Herbes)<br/>95 000 Cergy",
+    "transport": "RER A ou train SNCF (Saint-Lazare) : Cergy Préfecture",
+    "contact": "Téléphone : 01 34 33 45 45<br/>E-mail : LeCarreau@ville-cergy.fr  http://www.ville-cergy.fr/culture-loisirs/lieux-culturels-et-de-spectacles/arts-visuels-le-carreau/",
+    "timeFromChatelet": "1h03"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "VISAGES DU MONDE CERGY",
+    "city": "Cergy",
+    "keywords": [
+      "Spectacle vivant",
+      "Innovation"
+    ],
+    "description": "Nouveau lieu multi-fonctions sur Cergy le Haut, dédié aux arts urbains (danses actuelles), au multimédia et aux arts numériques.",
+    "location": "10, Place du Nautilus, 95800, Cergy",
+    "transport": "RER A : Cergy Le Haut",
+    "contact": "01 34 33 47 50 benoit.boutinot@ville-cergy.fr http://www.ville-cergy.fr/culture-loisirs/lieux-culturels-et-de-spectacles/arts-numeriques-visages-du-monde/",
+    "since": "2013",
+    "timeFromChatelet": "1h01"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival sustainable development",
+    "label": "VIVA VELO",
+    "city": "Cesson",
+    "keywords": [
+      "Festival sustainable development"
+    ],
+    "description": "Discover how to keep in shape and also commute without polluting the environment.",
+    "location": "Avenue de la Zibeline<br/>77240 Cesson",
+    "transport": "RER D : Cesson",
+    "contact": "http://www.vivavelo.fr/ vivavelo2013@gmail.com",
+    "since": "n/a",
+    "timeFromChatelet": "1h19mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "DOMAINE DE CHAMARANDE",
+    "city": "Chamarande",
+    "keywords": [
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "un centre artistique et culturel",
+    "location": "38, rue du Commandant Arnoux<br/>91730 Chamarande",
+    "transport": "RER C : Chamarande, à 200m du Domaine",
+    "contact": "01 60 82 52 01 chamarande.essonne.fr/categorie/domaine/",
+    "since": "2001",
+    "timeFromChatelet": "1h"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "LEXIS NUMERIQUE",
+    "city": "Champs sur Marne",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Ecole pour les jeux vidéo",
+    "location": "7 Rue Albert Einstein 77420 Champs-sur-Marne",
+    "transport": "RER A : Noisy Champs",
+    "contact": "01 64 68 58 30 infolexis@numerique.fr<br/>http://www.lexis-numerique.fr",
+    "since": "1990",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "DIGITAL PRODUCTIONS",
+    "city": "Chatenay Malabry",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Editeur de jeux vidéo",
+    "location": "121, avenue de la division Leclerc<br/>92290 Châtenay-Malabry",
+    "transport": "RER B : La Croix de berny",
+    "contact": "contact@digital-coproductions.com<br/>http://www.digital-coproductions.com/",
+    "since": "2009",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "INCIDENT",
+    "city": "Chatenay Malabry",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Experimental platform dedicated to net-art and digital arts.",
+    "location": "78 rue Anatole France Chatenay-Malabry",
+    "transport": "RER B : Robinson",
+    "contact": "incident@incident.net 01 43 50 48 93 http://incident.net/",
+    "since": "1994",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE CENTRALE PARIS",
+    "city": "Chatenay Malabry",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Nuit des Troubadours, A festival showcasing musicians,street performers and street artists a part of Paris Centrale.",
+    "location": "2 avenue Sully Prud'homme<br/>92290 Chatenay-Malabry",
+    "transport": "RER B : Croix de Berny (10 minutes à pied)",
+    "contact": "contact@nuitdestroubadours.com<br/>programmation@nuitdestroubadours.com www.nuitdestroubadours.com/",
+    "since": "1994",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CNEAI",
+    "city": "Chatou",
+    "keywords": [
+      "Arts visuels",
+      "Edition"
+    ],
+    "description": "dédié à l’œuvre média",
+    "location": "Ile des Impressionnistes  2 Rue du Bac, 78400 Chatou",
+    "transport": "RER A : Rueil-Malmaison<br/>sortir rue des 2 gares<br/>traverser le pont en direction de Chatou<br/>descendre à droite sur l'île des impressionnistes",
+    "contact": "33 (0) 139524535  <br/>cneai@cneai.com www.cneai.com/",
+    "since": "1997",
+    "timeFromChatelet": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "INFINIT GAME",
+    "city": "Chaville",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Studio de jeux vidéo",
+    "location": "10, rue du Professeur Roux<br/>92370 Chaville",
+    "transport": "SNCF L- Chaville rive droite",
+    "contact": "contact@serialscreener.com<br/>www.infinitgame.com",
+    "since": "2011",
+    "timeFromChatelet": "53mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "BATTLE PRO",
+    "city": "Chelles",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "50 danseurs s’affronteront au travers de différentes catégories dans un seul but : la Victoire. Plein feux sur la Line-Up !",
+    "location": "Complexe Sportif Maurice BaquetAvenue de l'Europe<br/>77500 Chelles, Ile-De-France, France<br/>Closed until Saturday 1:00 pm - 8:00 pm",
+    "transport": "RER E : Chelles Gournay<br/>Navette gratuite de la gare de Chelles au Gymnase de l'évènement (Maurice Baquet)",
+    "contact": "ontact@battle-pro.com<br/>Infoline : 01.64.21.24.64 www.battle-pro.com",
+    "since": "1999",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "COSA NOSTRA",
+    "city": "Chelles",
+    "keywords": [
+      "Education"
+    ],
+    "description": "an indoor skate park",
+    "location": "18 rue du Tir<br/>77500<br/>Chelles<br/>France",
+    "transport": "RER E : Gare de Chelles<br/>- SNCF Gare de l'Est : Chelles/Gournay.<br/>- Bus : A la gare de Chelles, ligne de bus B ou bus R.A.T.P N°613 / Arrêt \" les 4 routes \".",
+    "contact": "01 64 72 14 04 http://www.cosanostraskatepark.net/",
+    "since": "1999",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LES EGLISES CENTRE D'ART CONTEMPORAIN",
+    "city": "Chelles",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "entre d’art contemporain",
+    "location": "1 Rue Louis Eterlet, 77500 Chelles",
+    "transport": "navette accessible du bastille pour les vernissages",
+    "contact": "33 (0)1 64 72 65 70 <br/>leseglises@chelles.fr http://leseglises.chelles.fr/",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "EKO SYSTEM",
+    "city": "Choisy-le-Roi",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Studio de jeux vidéo",
+    "location": "16, avenue Jean-Jaurès<br/>94600 Choisy le roi",
+    "transport": "RER C : Choisy le roi",
+    "contact": "contact@ekosystem.com<br/>http://www.ekosystem.com/",
+    "since": "1999",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE CENTRE D'ART ALBERT CHANOT",
+    "city": "Clamart",
+    "keywords": [
+      "Spectacle vivant",
+      "Arts visuels"
+    ],
+    "description": "centre d'art",
+    "location": "33, rue Brissard<br/>92140 Clamart",
+    "transport": "7 min de la gare Paris-Montparnasse, arrêt Clamart<br/>10 min du métro Corentin Celton par le bus 189, arrêt Hebert<br/>10 min du périphérique par les portes de Versailles, Vanves et Brancion",
+    "contact": "01 47 36 05 89 entreartchanot@clamart.fr http://www.centrealbertchanot.com/",
+    "since": "1980",
+    "timeFromChatelet": "48mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Food",
+    "label": "LA ROMANTICA",
+    "city": "Clichy",
+    "keywords": [
+      "Food"
+    ],
+    "description": "Italain cuisine",
+    "location": "73, boulevard Jean Jaurès - Clichy",
+    "transport": "Line 12: Mairie de clichy",
+    "contact": "reservation@laromantica.fr  01 47 37 29 71",
+    "since": "1990",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "PAVILLON VENDÔME CENTRE D'ART CONTEMPORAIN",
+    "city": "Clichy",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Galerie d'Art Contemporain. Commissariat d'exposition exigeant.",
+    "location": "7 rue du Landy 92110 CLICHY",
+    "transport": "Metro 13 : Mairie de Clichy, bus 54, 74, 138, 174, 274, 341, 340",
+    "contact": "http://www.ville-clichy.fr/382-le-pavillon-vendome-centre-d-art-contemporain.htm",
+    "timeFromChatelet": "26mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE THÉÂTRE RUTEBEUF",
+    "city": "Clichy",
+    "keywords": [
+      "Spectacle vivant",
+      "Cinema"
+    ],
+    "description": "Le Rutebeuf est devenu une institution pluriculturelle incontournable et son aura s’étend de plus en plus au-delà de Clichy.",
+    "location": "18 Allée Léon Gambetta, 92110 Clichy",
+    "transport": "Metro 13 : Mairie de Clichy",
+    "contact": "01 47 15 98 50 http://www.ville-clichy.fr/275-le-theatre-rutebeuf.htm",
+    "since": "1990",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "PAVILLON VENDOME- CENTRE D'ART CONTEMPORAIN DE CLICHY-LA-GARENNE",
+    "city": "Clichy",
+    "keywords": [
+      "Arts visuels",
+      "Cinema",
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "créateur de lien social dédié au soutien des pratiques artistiques <br/>amateurs, au dialogue entre les cultures et les générations avec une programmation variée et gratuite.",
+    "location": "3, Rue Du Docteur Calmette, Clichy-la-garenne 92110",
+    "transport": "ligne 13 : Mairie de Clichy",
+    "contact": "Site : www.ville-clichy.fr/index.php?Rub=404<br/>Mail : espace-miller@ville-clichy.fr",
+    "since": "n/a",
+    "timeFromChatelet": "24mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Promenade",
+    "label": "COULEE VERTE",
+    "city": "Colombes",
+    "keywords": [
+      "Promenade"
+    ],
+    "description": "Cette promenade longue de 850m avec deux partie distincte",
+    "location": "La Coulée Verte, 107 bis rue des Monts Clairs",
+    "transport": "Train SNCF J (St.Lazare direction Ermont Eaubonne) : Colombes",
+    "contact": "couleeverte@mairie-colombes.fr ou 01 47 84 91 61 http://www.colombes.fr/espaces-verts/la-coulee-verte-un-espace-naturel-unique-374.html",
+    "since": "N/A",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "GENIOUS",
+    "city": "Colombes",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Research,developments in new technologies<br/>Infrastructure and Production Expertise<br/>Automation and Computer Technology",
+    "location": "6 à 20, avenue de l'Agent Sarre - 92700 Colombes",
+    "transport": "SNCF J : Colombes",
+    "contact": "http://www.genious.com/ 01 79 62 60 60 contact@genious.com",
+    "since": "1983",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "LE CARRE DES CREATEUR",
+    "city": "Colombes",
+    "keywords": [
+      "Education",
+      "Arts visuels"
+    ],
+    "description": "Une association artistique et aussi Un espace d'expression Des expositions, ateliers, stages pour adultes et enfants",
+    "location": "52, rue Denis Papin 92700 Colombes",
+    "transport": "SNCF Ligne 45 depuis Pont Cardinet (direction Nanterre-Universite) : Les Vallees",
+    "contact": "http://carredescreateur.canalblog.com/",
+    "since": "n/a",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE SIMONE SIGNORET",
+    "city": "Conflans Sainte Honorine",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "entre octobre et mai, des spectacles, des rencontres, des ateliers qui forment un parcours invitant au voyage et à la découverte dans un espace convivial.",
+    "location": "12 place Auguste Romagné<br/>78700 CONFLANS-SAINTE-HONORINE",
+    "transport": "Conflans-Fin d'Oise",
+    "contact": "http://www.theatresimonesignoret.fr/ theatre.signoret@wanadoo.fr  01 34 90 90 90",
+    "since": "n/a",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "JAZZ AU CONFLUENT",
+    "city": "Conflans Ste Honorine",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "lieu du musique",
+    "location": "15 rue de loge Mathieu<br/>78700 CONFLANS STE HONORINE",
+    "transport": "Train SNCF J (gare Saint-Lazare<br/>direction Mantes-la-Jolie) : Conflans-Sainte-Honorine",
+    "contact": "Comité de programmation: <br/>fell.alan@wanadoo.fr",
+    "since": "2002",
+    "timeFromChatelet": "1h08mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "ESPACE CARPEAUX",
+    "city": "Courbevoie",
+    "keywords": [
+      "Cinema",
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "espace multi-disciplinaire",
+    "location": "15 boulevard Aristide Briand 92400 Courbevoie",
+    "transport": "Bus : 275, 278, 163 et 164, arrêt Paix/Verdun<br/>Gares SNCF : Courbevoie ou Bécon-Les-Bruyères<br/>Métro 1, RER  A : Grande Arche de La Défense, puis bus.",
+    "contact": "01 46 67 70 00 http://www.sortiracourbevoie.com/Plan-acces/Espace-Carpeaux/1",
+    "since": "n/a",
+    "timeFromChatelet": "42 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "IIM - INSTITUT DE L'INTERNET ET DU MULTIMEDIA",
+    "city": "Courbevoie",
+    "keywords": [
+      "Education",
+      "Innovation"
+    ],
+    "description": "Ecole pour les jeux vidéo",
+    "location": "12 Avenue Léonard de Vinci, 92400 Courbevoie",
+    "transport": "Line 1- La Defense",
+    "contact": "iim@devinci.fr<br/>http://www.iim.fr",
+    "since": "1995",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "MAISON DES JONGLAGES",
+    "city": "Courbevoie",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A collection of artists and shows from all around the world",
+    "location": "Centre culturel Jean Houdremont<br/>11 Av Du Gal Leclerc - 93120 La Courneuve",
+    "transport": "RER B : Courneuve- Aubervilliers",
+    "contact": "http://www.maisondesjonglages.fr/ 01.49.92.60.54<br/>infos.maison.jonglages@gmail.com",
+    "since": "2008",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "L’ECOUTILLE",
+    "city": "Courtry",
+    "keywords": [
+      "Musique",
+      "Cinema"
+    ],
+    "description": "lieu dediée au jazz",
+    "location": "97, rue Charles Van Wyngène<br/>77181 Courtry",
+    "transport": "SNCF P depuis Gare de l'Est<br/>direction Meaux<br/>jusqu’à Chelles Gournay",
+    "contact": "01 60 08 38 48 / 06 10 83 87 51<br/>Mail : lecoutille@lecoutille.com",
+    "since": "2006",
+    "timeFromChatelet": "1 h 34 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "MAISON DES ARTS DE CRETEIL",
+    "city": "Creteil",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Arts visuels"
+    ],
+    "description": "theatre, dance, music and digital art. Festival NEMO, EXIT, de Film de Femmes, etc.",
+    "location": "Place Salvador Allende<br/>Créteil<br/>94000",
+    "transport": "Métro 8 : Créteil - Préfecture Parking gratuit Hôtel de Ville en contrebas du théâtre",
+    "contact": "http://www.maccreteil.com/ 01 45 13 19 19 Communication 01 45 13 19 05",
+    "since": "N/A",
+    "timeFromChatelet": "47mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "CENTRE DES ARTS D'ENGHIEN",
+    "city": "Enghien",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "Véritable hub créatif transdisciplinaire autour des cultures digitales. Festival des Bains Numériques",
+    "location": "12-16 rue de la Libération 95880",
+    "transport": "Bus : 154, 256 De Paris Gare du Nord, Ligne H direction Pontoise ou Valmondois (15 min)<br/>De Pontoise, Ligne H direction Paris Gare du Nord (20 min)",
+    "contact": "01.30.10.85.59 www.cda95.fr",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "LES FÊTES DE L'HIVER",
+    "city": "Epinay Senart",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A festival dedicated to clowns and mimes with two plays \"The Wonderful Escape\" and Imagine Yourself.",
+    "location": "Salle Georges Pompidou Rue De Rocheau, 91860 Epinay Sous Senart",
+    "transport": "RER D : Brunoy",
+    "contact": "http://www.ville-epinay-senart.fr 01.60.47.85.80",
+    "since": "N/A",
+    "timeFromChatelet": "1h04mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "MUSIQUES AU COMPTOIR",
+    "city": "Fontenay-sous-Bois",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "lieu des concerts",
+    "location": "95 rue Roublot<br/>94120 Fontenay-sous-Bois",
+    "transport": "Métro 1 : Chateau de Vincennes<br/>puis BUS 118 depuis Avenue du Chateau, direction Van Derheyden<br/>jusqu’à Les Rigollots / RER A : Fontenay-sous-Bois, sortie Bd de Vincennes, Prendre la rue Emile Roux, puis la rue Dalayrac à gauche et la rue Roublot à droite",
+    "contact": "01 48 75 64 31 - 06 71 26 00 95 <br/>contact@musiquesaucomptoir.fr  http://www.musiquesaucomptoir.fr/infos.php",
+    "since": "2001",
+    "timeFromChatelet": "38 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ECOLE MUNICIPALE DES BEAUX ARTS / GALERIE EDOUARD MANET",
+    "city": "Gennevilliers",
+    "keywords": [
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "Galerie d'Art Contemporain combinée à une école d'art contemporain. Commissariat d'exposition exigeant.",
+    "location": "3 Place Jean Grandel 92230 Gennevilliers",
+    "transport": "Métro 13 : Gabriel Péri",
+    "contact": "01.40.85.67.40 www.ville-gennevilliers.fr embamanet@ville-gennevilliers.fr",
+    "since": "1994",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LE TAMANOIR",
+    "city": "Gennevilliers",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "scène conventionnée, lieu de musiques actuelles à Gennevilliers",
+    "location": "27 avenue Lucette Mazalaigue - 92 230 Gennevilliers",
+    "transport": "Métro 13 : Les Courtilles (15 minutes de Saint-Lazare), puis à pied 5 minutes.<br/>RER C : Gennevilliers, puis bus 166 ou 378, arrêt \"Luth\".",
+    "contact": "http://www.letamanoir.com/",
+    "timeFromChatelet": "37mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DE GENNEVILLIERS",
+    "city": "Gennevilliers",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "\"Art as Experience\" : Théâtre d'avant-garde dirigé par Pascal Rambert, exposition d'art contemporains, rencontres, workhops, café très sympathique.",
+    "location": "41 avenue des Grésillons  92230 Gennevilliers",
+    "transport": "Direction Asnières-Gennevilliers, station Gabriel Péri. Exit n°1 > then, follow Daniel Buren's arrows",
+    "contact": "www.theatre2gennevilliers.com +33 (0)1 41 32 26 10",
+    "since": "2007",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE GENERATEUR",
+    "city": "Gentilly",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "galerie, espace de spectacle",
+    "location": "16, rue Charles Frérot<br/>94250 Gentilly",
+    "transport": "Tram 3 : Poterne des Peupliers<br/>M° Place d’Italie + Bus 57 arrêt Verdun – Victor Hugo<br/>RER B : Gentilly (ou RER B : Cité U + Tram 3 : Poterne des Peupliers)<br/>Vélib’ (n° 13111, n° 42505)",
+    "contact": "01 49 86 99 14<br/>contact@legenerateur.com www.legenerateur.com",
+    "since": "2006",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAISON DE LA PHOTOGRAPHIE",
+    "city": "Gentilly",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre Culturel et Photographique",
+    "location": "1, rue de la division du Général Leclerc 94250 Gentilly",
+    "transport": "RER B : Gentilly /<br/>Bus n° 57, n° 125, n° 184,<br/>Bus gratuits de la Communauté d'agglomération de Val de Bièvre.",
+    "contact": "http://www.maisondelaphotographie-robertdoisneau.fr/ tél : 01 55 01 04 86 - fax : 01 47 40 82 06 - maisondelaphotographie@agglo-valdebievre.fr",
+    "since": "n/a",
+    "timeFromChatelet": "22mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "BIENNALE D'ISSY",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Biennale",
+    "location": "33 rue du Gouverneur Général Eboué <br/>92130 Issy-les-Moulineaux ET16 rue Auguste Gervais 92130 Issy-les-Moulineaux",
+    "transport": "Métro 12 : Mairie d’Issy<br/>Bus : 123, 126, 169, 189, 190, 289, 290, 323, Tuvim<br/>Tram T2 : Val-de-Seine;| RER C : Val-de-Seine",
+    "contact": "http://www.biennaledissy.com/ ET http://issy.com/biennale2013",
+    "since": "2003",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ESPACE ICARE",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Lieu culturel",
+    "location": "31, Boulevard Gambetta 92130 Issy les Moulineaux",
+    "transport": "Métro 12 : Corentin Celton (à 10min de montparnasse); bus 126, 189, 394",
+    "contact": "infos@espace-icare.com/ Tél : 01 40 93 44 50 - Fax : 01 40 93 46 07 www.espace-icare.net",
+    "since": "n/a",
+    "timeFromChatelet": "26mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "L'ENTREPONT",
+    "city": "Issy Les Moulineaux",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant"
+    ],
+    "description": "l’Entrepont permet de développer tout type de projet artistique relatif à la musique, au théâtre, à la danse, à la littérature, au multimédia.",
+    "location": "24, chemin de l’Accès à la Gare",
+    "transport": "RER C : Issy ou Métro 12 : Mairie de Issy",
+    "contact": "01 41 46 17 20<br/>E-mail : entrepont@ville-issy.fr<br/>www.facebook.com/entrepont",
+    "since": "N/A",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "L'ILE",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "French cuisine with 100% preparations made on site with a traditional and modern mix.",
+    "location": "170, quai de Stalingrad - Parc de l'Île Saint-Germain - Issy-les-Moulineaux",
+    "transport": "RER C : Issy Val de Seine<br/>Tram T2 : Issy Val de Seine<br/>Bus 126 et 189 : Parc de l’Ile St Germain",
+    "contact": "http://www.restaurant-lile.com/ 01 41 09 99 99",
+    "since": "1998",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LE CUBE",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "A centre for creation entirely dedicated to digital technology,",
+    "location": "20, Cours Saint Vincent 92130 Issy-les-Moulineaux",
+    "transport": "Tram T2 : Les Moulineaux (sortie 2)<br/>RER C : Issy (sortie \"Allée des Carrières), puis à gauche dans l'avenue de Verdun jusqu'au Cours Saint-Vincent<br/>Vélib’ : Stations n° 21301 et n° 21302",
+    "contact": "01 58 88 3000 http://www.lecube.com/",
+    "since": "2001",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LES ARCHES",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "Les Arches est une association de 30 artistes professionnels",
+    "location": "Boulevard Garibaldi<br/>92130 Issy-les-Moulineaux",
+    "transport": "RER C : Issy<br/>Tram T2 : JH Lartigue<br/>Métro 12 : Mairie d'Issy<br/>Bus 123 : Gare d'Issy<br/>Vélib : Gare d'Issy",
+    "contact": "33 (0)1 41 08 75 08 http://www.lesarches.com/",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "RIVER CAFE",
+    "city": "Issy les Moulineaux",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "French cuisine with 100% preparations made on site with a traditional and modern mix.",
+    "location": "146, quai de la bataille de Stalingrad - Issy-les-Moulineaux",
+    "transport": "RER C : Issy-Val de Seine; Tram T2",
+    "contact": "www.rivercafe.fr contact@rivercafe.fr 01 41 46 19 45",
+    "since": "1990",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "SCULPTEO",
+    "city": "Issy Les Moulineaux",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "We do 3D printing for both individuals and professionals. We develop easy-to-integrate solutions for online retailers wanting to integrate 3D printing and mass customization to their offer.",
+    "location": "89 rue Gouverneur Eboué<br/>92130 Issy-les-Moulineaux - France",
+    "transport": "Métro 12 : Mairie d'Issy",
+    "contact": "http://www.sculpteo.com/ +33 1 83 64 11 22",
+    "since": "2009",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE A2Z",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "galerie d'art contemporain spécialisée dans la création contemporaine chinoise. Participe à la foire Art Paris",
+    "location": "28 bis, rue barbès<br/>94200 Ivry-sur-Seine, FRANCE",
+    "transport": "Métro 7 : Porte d’Ivry ou Pierre Marie Curie / Bus 125 : Jules Ferry / Parking",
+    "contact": "http://www.a2z-art.com 09 54 03 08 02 Info@a2z-art.com",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "COLLECTIF LA BLANCHISSERIE",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Spectacle vivant",
+      "Arts visuels"
+    ],
+    "description": "Collectif et espaces dédiés à la création pluridisciplinaire",
+    "location": "4/16 impasse Prudhon 94200 Ivry-sur-Seine",
+    "transport": "Métro 8 : Liberté + Bus 180 : Maurice Gunsbourg /<br/>Métro 7 : Mairie d’Ivry / RER C : Ivry-sur-Seine + bus 125 ou 323 : Place Gambetta",
+    "contact": "01 46 70 97 88 ou 09 71 53 21 10 http://www.collectiflablanchisserie.org/ lablanchisserie@gmail.com",
+    "since": "1990",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CREDAC",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre d’art contemporain d'Ivry, jouxtant la Manufacture des Oeuillets.  Commissariat d'exposition exigeant.",
+    "location": "29 Rue Raspail, 94200 Ivry-sur-Seine",
+    "contact": "33 (0)1 49 60 25 06<br/>contact@credac.fr http://www.credac.fr/",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "LUXY CINEMA",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "cinema",
+    "location": "77 Avenue Georges Gosnat",
+    "transport": "Métro 7 : Mairie d'Ivry<br/>RER C : Ivry<br/>(trains Romi ou Mona)",
+    "contact": "http://luxy.ivry94.fr/contacts/ 01 72 04 64 60 leluxy@ivry94.fr",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "CENTRE ARTISTIQUE EL DUENDE",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Spectacle vivant",
+      "Arts visuels"
+    ],
+    "description": "Théatre expérimental, rencontres citoyennes, programmation très diverse.",
+    "location": "23 Rue Hoche, 94200 Ivry-sur-Seine",
+    "transport": "Métro 7 - Mairie d'Ivry",
+    "contact": "01 46 71 52 29 theatre-elduende.com / lesateliersduduende@gmail.com"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE RX",
+    "city": "Ivry-sur-Seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Lieu d'exposition et de résidence artistique"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE PHILIPPE GAULIER",
+    "city": "Janville-sur-Juine",
+    "keywords": [
+      "Education",
+      "Spectacle vivant"
+    ],
+    "description": "Ecole internationale du Clown fondée par Philippe Gaulier (mondialement connu pour avoir cassé des milliers d'assiettes), centrée sur le pouvoir libérateur du \"jeu\".",
+    "location": "7 rue de Bouray<br/>.Janville-sur-Juine 91510 France",
+    "transport": "RER C : Landy",
+    "contact": "33 (0)1 60 82 19 83/33 (0)9  52 11 16 04 Philgaulier@aol.com michikogaulier@gmail.com",
+    "since": "1980",
+    "timeFromChatelet": "1hr23mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "MANDO PRODUCTIONS",
+    "city": "Joinville-le-Pont",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Studio de jeux vidéo",
+    "location": "1, quai Gabriel Péri<br/>ZAC des studios - Bâtiment E<br/>94340 Joinville le Pont",
+    "transport": "RER A : Joinville le pont",
+    "contact": "info@mandoproductions.com<br/>http://www.mandoproductions.com",
+    "since": "2010",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE ET ESPACE D'ART CONTEMPORAIN CAMILLE LAMBERT",
+    "city": "Juissy-sur-Orge",
+    "keywords": [
+      "Education",
+      "Arts visuels"
+    ],
+    "description": "d’enseignement artistique et un lieu d’exposition dédié à l’art contemporain.",
+    "location": "35 Avenue de la Terrasse, 91260 Juvisy-sur-Orge",
+    "contact": "01 69 57 82 50<br/>eart.lambert@portesessonne.fr http://www.portesessonne.fr/Sortir-et-decouvrir/Ecole-et-Espace-d-art-contemporain-Camille-Lambert",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "STARTUP 42",
+    "city": "Kremlin Bicetre",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "StartUp42 est un accélérateur de startups tech, gratuit et sans prise de participations.",
+    "location": "14 Rue Voltaire, 94276 Kremlin Bicêtre",
+    "transport": "Metro 7 ou Tram : Porte d'Italie",
+    "contact": "http://startup42.org/the-accelerator-2/",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "DEUX PIECES CUISINE",
+    "city": "La Blanc Mesnil",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "A space which promotes unique musical programming. Also offers rehearsal space for musicians.",
+    "location": "42, Avenue Paul Vaillant-Couturier, 93150, Le Blanc-Mesnil",
+    "transport": "RER B : Blanc Mesnil",
+    "contact": "http://www.deuxpiecescuisine.net/",
+    "since": "1994",
+    "timeFromChatelet": "36mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LE FORUM",
+    "city": "La Blanc Mesnil",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Arts visuels"
+    ],
+    "description": "centre d'art",
+    "location": "1-5, place de la Libération<br/>93150 Blanc-Mesnil",
+    "transport": "RER B : Drancy <br/>puis bus 148 ou 346 - Arrêt Libération",
+    "contact": "01 48 14 22 00 http://www.leforumbm.fr/",
+    "timeFromChatelet": "52mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "CENTRE CULTUREL JEAN HOUDREMONT",
+    "city": "La Courneuve",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant"
+    ],
+    "description": "Le centre culturel élabore chaque saison une programmation pluridisciplinaire, avec une attention particulière pour le jeune public.",
+    "location": "11 avenue du Général-Leclerc, 93120 La Courneuve.",
+    "transport": "RER B : Courneuve-Aubervilliers line 7 arrêt La Courneuve-8 mai 1945, puis Tramway T1 direction Saint-Denis arrêt 6 Routes",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "FÊTE DE L’HUMANITÉ",
+    "city": "La Courneuve",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A music festival organised by L'humanité the newspaper and has been going on since 1930.",
+    "location": "Parc de la Courneuve-55 bis avenue Waldeck Rochet <br/>93 120 La Courneuve",
+    "transport": "Metro 7 :Aubervillers Pantin - 4 chemins, puis bus 249 direction Dugny arrêt \"Place 16 aout 1943\".",
+    "contact": "fete.humanite.fr 01 49 22 66 59",
+    "since": "1930",
+    "timeFromChatelet": "1h04mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ART O CLOCK",
+    "city": "La Defense",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Paris International Art Fair",
+    "location": "Centre of New Industries and Technologies;2 Place de la Défense, 92053 La Défense",
+    "transport": "Métro 1 : Esplanade de La Défense ou RER A : Grande Arche",
+    "contact": "http://www.art-oclock.com/         contact@art-oclock.com",
+    "since": "2012",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CNAP (CENTRE NATIONAL DES ART PLASTIQUES)",
+    "city": "La Defense",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Il encourage et soutient la création en France dans tous les domaines des arts visuels... établissement du ministère de la Culture et de la Communication, Le CNAP soutient la recherche et l’innovation artistiques",
+    "location": "1 place de la Pyramide<br/>92911 Paris-La Défense<br/>France",
+    "transport": "RER A-La Defense (Grande Arche)",
+    "contact": "http://www.cnap.fr 0)1 46 93 99 50",
+    "since": "1982",
+    "timeFromChatelet": "26MINS"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LA DÉFENSE JAZZ FESTIVAL",
+    "city": "La Defense",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "a musical festival showcasing world talent and providing free shows",
+    "location": "Parvis de la Défense",
+    "transport": "Métro ligne 1, station La Défense – Grande Arche<br/>RER ligne A, station La Défense – Grande Arche",
+    "contact": "01 47 29 30 48<br/>ladefensejazz@cg92.fr http://ladefensejazzfestival.hauts-de-seine.net/",
+    "since": "1977",
+    "timeFromChatelet": "26mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "ESPACE CHARLES VANEL",
+    "city": "Lagny-Sur-Marne",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "Centre Culturel",
+    "location": "22, Boulevard Du Maréchal Gallieni, Lagny Sur Marne 77400",
+    "transport": "depuis Chatelet<br/>direction Porte de Clignancourt<br/>jusqu’à Gare de l'Est (Verdun) depuis Gare de l'Est<br/>direction Meaux<br/>jusqu’à Lagny-Thorigny depuis Lagny Sncf<br/>direction Bussy RER<br/>jusqu’à Foch",
+    "contact": "espace-charles-vanel@lagny-sur-marne.fr 01 64 12 47 50",
+    "timeFromChatelet": "51 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LARRY GAGOSIAN",
+    "city": "Le Bourget",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "galerie d'art contemporain d'envergure internationale (New York, Londres, Athène, etc.)",
+    "location": "800 avenue de l'europe 93350 le bourget",
+    "transport": "No 152 from Porte de la Villette No 350 from Gare de l’Est or Gare du Nord RER B—exit at Le Bourget<br/>Take bus no 152 from Jean Jaurès Division Leclerc",
+    "contact": "01.48.16.16.47 www.gagosian.com p",
+    "since": "2012",
+    "timeFromChatelet": "27mins + bus ride"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "WEATHER FESTIVAL",
+    "city": "Le Bourget, Bobigny, Montreuil, Paris",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "techno-house festival",
+    "location": "n/A",
+    "transport": "various locations",
+    "contact": "info@weatherfestival.fr",
+    "since": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "ESPACE CULTUREL ANDRÉ MALRAUX",
+    "city": "Le Kremlin-Bicêtre",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "festival du musique; Festival Val de Marnes",
+    "location": "2, place Victor Hugo, 94270 Le Kremelin-Bicêtre",
+    "transport": "Metro 7 : Le Kremlin-Bicêtre",
+    "contact": "TÉL : 01 49 60 69 42 www.festivaldemarne.org festivaldemarne@festivaldemarne.org",
+    "since": "1986",
+    "timeFromChatelet": "23mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "LES POLES D'ART SAVOIR DU PRESENT",
+    "city": "Le Kremlin-Bicêtre",
+    "keywords": [
+      "Education"
+    ],
+    "description": "artistic residency-Give artists a place of work <br/>inside companies, with the support <br/>of local authorities. Pôles d’Art are <br/>intended as new, temporary and transient <br/>cultural facilities for contemporary art",
+    "location": "3 rue du Général Leclerc – 94270 Le Kremelin-Bicêtre",
+    "transport": "Métro 7 : Le Kremlin-Bicêtre",
+    "contact": "01 46 71 69 61 – savoiraupresent@wanadoo.fr",
+    "since": "1981",
+    "timeFromChatelet": "26mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "ARTURAS",
+    "city": "Le Vésinet",
+    "keywords": [
+      "Design"
+    ],
+    "description": "Design graphique / Design textile / Lumière",
+    "location": "6 rue Sully<br/>78110 Le Vésinet",
+    "contact": "0139766581. Arturas@arturass.com. http://www.arturass.com",
+    "since": "2007",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DU VESINET",
+    "city": "Le Vésinet",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Cinema"
+    ],
+    "location": "59 Boulevard Carnot, 78110",
+    "transport": "RER A :  Le Vésinet Centre (à 20 minutes de Charles de Gaulle – Etoile) → Prendre la sortie rue du Général Clavery",
+    "contact": "(0)1.30.15.66.01 – info.cinema@vesinet.org ou info.theatre@vesinet.org +33 (0)1.30.15.66.00",
+    "since": "n/a",
+    "timeFromChatelet": "46mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "FABRIQUE PHANTOM",
+    "city": "Les Lilas",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "Structure d’accompagnement et de diffusion d'oeuvre filmique (film d'artistes, cinéma expérimental, etc.). Partenaire de l'Espace Khiasma.",
+    "location": "9 rue Jules David<br/>93260 Les Lilas",
+    "transport": "Métro 11: Porte des lilas",
+    "contact": "www.phantom-productions.org",
+    "since": "2012",
+    "timeFromChatelet": "27mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LE TRITON",
+    "city": "Les Lilas",
+    "keywords": [
+      "Musique",
+      "Arts visuels"
+    ],
+    "description": "d'offrir aux musiciens un lieu dont la qualité de l'accueil et la performance technique permettent de conjuguer création, diffusion, enregistrement public et production phonographique.",
+    "location": "11 bis, rue du Coq Français <br/>93260 Les Lilas",
+    "transport": "Méro 11 : Mairie des Lilas; ou Bus 96, 61, 170, 115, 249 jusqu'à la Porte des Lilas, <br/>puis prendre les 105 ou 129 jusqu'à la Mairie des Lilas",
+    "contact": "01 49 72 83 13<br/>contact@letriton.com",
+    "since": "1999",
+    "timeFromChatelet": "22mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ESPACE KHIASMA",
+    "city": "Les Lillas",
+    "keywords": [
+      "Arts visuels",
+      "Spectacle vivant",
+      "Workshops"
+    ],
+    "description": "Centre d'art contemporain à la programme très pointue et engagée. Rencontre et débats citoyens. Performance, workshops, etc. Coordonne divers évenèments d'envergure métropolitaine.",
+    "location": "15 rue Chassagnolle 93260 Les Lilas",
+    "transport": "Métro 5 : Porte ou Mairie des Lilas; Tram T3 : station Adrienne Bolland",
+    "contact": "01 43 60 69 72<br/>info@khiasma.net www.khiasma.net/",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivante",
+    "label": "ESPACE CULTUREL BORIS-VIAN",
+    "city": "Les Ulis",
+    "keywords": [
+      "Spectacle vivante"
+    ],
+    "description": "A cultural center associated to the city of Ulis,",
+    "location": "Rue des Millepertuis<br/>91940 Les Ulis",
+    "transport": "RER  B : Orsay-ville;  Bus 3 : Ulis - Passerelle d'automne.",
+    "contact": "01 69 29 34 91",
+    "since": "more than 20years old",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "L'ESCALE",
+    "city": "Levallois",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre culturel",
+    "location": "25 rue de la Gare, 92300, Levallois",
+    "transport": "Métro 3 :  Anatole France",
+    "contact": "http://www.ville-levallois.fr/culture/127-2/  accueilescale@ville-levallois.fr<br/>• Info :        01 47 15 74 56",
+    "since": "N/A",
+    "timeFromChatelet": "51mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "Ô RESTAURANT",
+    "city": "Levallois Perret",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "The menu, which features delicious dishes prepared using fine, top-quality ingredients",
+    "location": "47, quai Michelet - Levallois-Perret",
+    "transport": "Métro 3 : Pont de Levallois Bécon",
+    "contact": "www.orestaurant.fr 01 41 34 32 86",
+    "since": "n/a",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "LE BAROCCO",
+    "city": "Levallois-Perret",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "Cuisine méditérannéenne",
+    "location": "Hôtel Evergreen Laurel<br/>8, place Georges Pompidou - Levallois-Perret",
+    "transport": "Métro 3 : Pont de Levallois - Bécon",
+    "contact": "www.baroccorestaurant.fr reservation@baroccorestaurant.fr",
+    "since": "n/a",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "LE PETIT POUCET",
+    "city": "Levallois-Perret",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "French contemporary elaborated by chef Eric Chatellard with fresh produce daily from the market.",
+    "location": "Ile de La Jatte -4, rond-point Claude Monet - Levallois-Perret",
+    "transport": "Métro 3 : Pont de Levallois-Becon",
+    "contact": "01 47 38 61 85<br/>Mail : info@le-petitpoucet.net  http://www.le-petit-poucet.com/",
+    "since": "1901 +restaurant since 1990)",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "EVERSIM",
+    "city": "Lognes",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Studio de jeux vidéo",
+    "location": "13, place des Libertés Publiques<br/>77185 Lognes",
+    "transport": "RER A :  Lognes",
+    "contact": "info@eversim.com<br/>http://www.eversim.com",
+    "since": "2004",
+    "timeFromChatelet": "43mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "BAHO",
+    "city": "Longjumeau",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "Concerts, évènements",
+    "location": "7 : Rue de Verdun, 91160 Longjumeau",
+    "transport": "RER B : Massy-Palaiseau + Bus 199 depuis Massy-Palaiseau / RER direction La Rocade-Lycee<br/>jusqu’à Hopital de Longjumeau",
+    "contact": "http://bahos.fr/",
+    "since": "2006",
+    "timeFromChatelet": "1h14mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ARTÉVIE",
+    "city": "Lorrez-le-Bocage",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "A contemporary art gallery helping its vistitors to look,create and interact with contemporary art in a new facet.",
+    "location": "14, rue des fontaines<br/>77710 Lorrez-le-Bocage",
+    "transport": "A6 sortie Nº16 (Nemours)<br/>A5 sortie Nº18 (Varennes sur Seine)<br/>A19 sortie Nº1 (Sens)",
+    "contact": "01.64.31.47.35, domifa7@hotmail.fr http://www.espace-artevie.fr/",
+    "since": "2004",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "AVEC VOUS DESIGN",
+    "city": "Louveciennes",
+    "keywords": [
+      "Design"
+    ],
+    "description": "Architecture commerciale, Développement produits, Scénographie",
+    "location": "12 rue georges blandon, 78430<br/>Louveciennes",
+    "transport": "Train SCNF L (Gare Saint Lazare) :",
+    "contact": "139187648  claire@avecvousdesign.com http://www.avecvousdesign.com",
+    "since": "2009",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FILE 7- SMAC DU VAL D'EUROPE",
+    "city": "Magny-Le-Hongre",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "Un espace dédié aux musiques actuelles",
+    "location": "4 rue des Labours 77700 MAGNY LE HONGRE",
+    "transport": "RER A : Marne la Vallée Chessy puis Bus 34 (3 arrêts) :Moulin à Vent",
+    "contact": "01 60 43 66 12 http://www.file7.com/",
+    "since": "1996",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "DEUXIEME GROUPE D'INTERVENTION",
+    "city": "Malakoff",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Creating artistical situations for, with and within the public space, while researching and elaborating a multi-disciplinary language.",
+    "location": "27 rue Voltaire, 92240 Malakoff",
+    "transport": "Métro 4 : Mairie de Montrouge",
+    "contact": "luzpittaluga@deuxiemegroupe.org         http://www.deuxiemegroupe.org 06 30 95 77 31",
+    "since": "1995",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FABRICA'SON- THEATRE 71",
+    "city": "Malakoff",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant"
+    ],
+    "description": "la promotion du jazz et des musiques improvisées,",
+    "location": "28 rue Victor Hugo, 92240 MALAKOFF,",
+    "transport": "Métro 13 : Malakoff-Plateau de Vanves",
+    "contact": "01.55.48.06.36, email :  communication@fabrica-son.com http://www.fabrica-son.org/",
+    "since": "2002",
+    "timeFromChatelet": "35 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "LES ÉDITIONS VOLUMIQUES",
+    "city": "Malakoff",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "is a studio inventing, designing and developing new Games and Toys, focusing on the relationship between the tangible and digital.",
+    "location": "46, avenue Pierre Brossolette<br/>92240 Malakoff / France",
+    "transport": "Métro 4 : Mairie de Montrouge",
+    "contact": "news@volumique.com http://volumique.com/",
+    "since": "2009",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAISON DES ARTS DE MALAKOFF",
+    "city": "Malakoff",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "artistic center which also offeres residences to artists",
+    "location": "105 Avenue du 12 Février 1934, 92240 Malakoff",
+    "transport": "Métro 13 : Malakoff - Plateau de Vanves / Métro 4 : Porte d’Orléans + bus 194 ou 295 / Vélib’ : Station n°22404, avenue Pierre Brossolette / Autolib’ : Station Malakoff/Gabriel Péri/120 ou Montrouge/Jean Jaurès/ 51",
+    "contact": "01 47 35 96 94 http://maisondesarts.malakoff.fr/ maisondesarts(at)ville-malakoff.Fr",
+    "since": "1993",
+    "timeFromChatelet": "36mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "CAMAC",
+    "city": "Marnay-sur-Seine",
+    "keywords": [
+      "Education"
+    ],
+    "description": "artistic residency with partnership with UNESCO combining art-science and technology providing a retreat for artists while also reviving the small town of marnay sur seine",
+    "location": "1 Grande Rue, 10400 Marnay-sur-Seine",
+    "transport": "Train SNCF (Gare de l'Est)",
+    "contact": "www.camac.org/ 03 25 39 20 61",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "PAUL B",
+    "city": "Massy",
+    "keywords": [
+      "Education"
+    ],
+    "description": "centre culturelle",
+    "location": "6, allée du Québec <br/>91300 Massy",
+    "transport": "RER A : Massy Verrières puis 15 minutes à pied, <br/>ou arrêt « Les Baconnets », puis prendre le bus 119, arrêt Hélène Boucher (dernier RER vers Paris : minuit); Noctilien en direction de Paris-centre.",
+    "contact": "él. 01 69 75 12 80 Fax 01 69 20 82 08<br/>contact@paul-b.fr www.paul-b.fr",
+    "since": "1988",
+    "timeFromChatelet": "51mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "NOMADIC SOLUTIONS",
+    "city": "Melun",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "designs and distributes a range of connected mobile solutions, to enable professionals to optimize their profitability, improve and rethink the use of mobility of people, vehicles and goods, ensuring reliability, responsiveness and technical agility.",
+    "location": "1015 rue du Maréchal Juin - 77000  MELUN",
+    "transport": "Train depuis Melun jusqu’à Curie Pascal",
+    "contact": "01 60 59 04 55  info@nomadicsolutions.biz http://www.nomadicsolutions.biz/",
+    "since": "2003",
+    "timeFromChatelet": "1h33"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "ALEXANDRE MORONNOZ",
+    "city": "Montreuil",
+    "keywords": [
+      "Design"
+    ],
+    "description": "space/object design",
+    "location": "67 rue de Paris<br/>93100 Montreuil",
+    "transport": "Metro 1 : Berault",
+    "contact": "06 63 41 58 34<br/>contact@moronnoz.com<br/>www.moronnoz.com",
+    "since": "2009",
+    "timeFromChatelet": "34 mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "ANUMAN INTERACTIVE",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "A thriving French multimedia publishing company on the latest technological platforms!",
+    "location": "66 rue Marceau - 93100 Montreuil",
+    "transport": "Metro 9 : Robespierre / Métro 1 : Saint Mande",
+    "contact": "http://www.anuman.fr/ Email standard : info anuman.fr",
+    "since": "2000",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "ATELIER JES",
+    "city": "Montreuil",
+    "keywords": [
+      "Design"
+    ],
+    "description": "design studio [jes] collaborates constantly with artists, designers, graphic designers and architects.",
+    "location": "69, rue Victor Hugo<br/>93100 Montreuil",
+    "transport": "Metro 9 : Mairie de Montreuil",
+    "contact": "http://www.atelier-jes.com  01 43 60 78 81 atelierjes@gmail.com",
+    "since": "1998",
+    "timeFromChatelet": "45mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "BIG WHEELS STUDIO",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Audio – Localisation",
+    "location": "27 ter rue du Progrès - 93100 Montreuil",
+    "transport": "Metro 1 : Saint Mande",
+    "contact": "http://www.big-wheels.fr/site/ <br/>contact@big-wheels.fr",
+    "since": "1990",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "CAFE LA PECHE",
+    "city": "Montreuil",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "Café La Pêche  est un lieu artistique, culturel et de citoyenneté, destiné aux jeunes montreuillois et ouvert à un large public.",
+    "location": "16, rue Pépin 93100 Montreuil",
+    "transport": "Metro 9 : Mairie de Montreuil<br/>/ Bus 121 ou 102 : Cimetière",
+    "contact": "Tél : 01 56 63 07 20 lapeche@montreuil.fr http://www.lapechecafe.com/",
+    "since": "1994",
+    "timeFromChatelet": "49mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "116 CENTRE D'ART CONTEMPORAIN DE MONTREUIL",
+    "city": "Montreuil",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre d'Art contemporain créé en 2013.",
+    "location": "116, rue de Paris, 93100 Montreuil",
+    "transport": "Metro 9 : Robespierre",
+    "contact": "http://www.le116-montreuil.fr/",
+    "since": "2013",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "E NEKO",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Video games exclusively for consoles and PC.",
+    "location": "38, rue de la République 93100 Montreuil",
+    "transport": "Metro 9 : Robespierre / Metro 1 - Saint Mande",
+    "contact": "http://www.e-neko.com/?lang=en  +33 (0)1 4287 1890<br/>contact@e-neko.com",
+    "since": "1999",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "F93",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "is a cultural centre. It seeks to build bridges between the general public, the sciences and technical and industrial innovation, restoring the relationship between the world of research and society at large",
+    "location": "70 rue Douy Delcupe, 93100 Montreuil",
+    "transport": "Métro 1 : Berault",
+    "contact": "01 49 88 66 33 ww.f93.fr",
+    "since": "2008",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "FLOC PRODUCTION MULTIMEDIA",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Développement et édition de jeux vidéo éducatifs (reconnus d’intérêt pédagogique par le ministère de l’Education)",
+    "location": "26 rue de la Fédération - 93100 Montreuil",
+    "transport": "Metro 9 : Croix de chavaux",
+    "contact": "http://www.floc-multimedia.com/ <br/>contact@floc-multimedia.com",
+    "since": "2005",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "FOCUS HOME INTERACTIVE",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Editeur indépendant",
+    "location": "100 av du Gal Leclerc - 93692 Pantin cedex",
+    "transport": "Metro 9 : Robespierre",
+    "contact": "http://www.focus-home.com/",
+    "since": "1996",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "HETIC",
+    "city": "Montreuil",
+    "keywords": [
+      "Education"
+    ],
+    "description": "L'univers d'internet évolue sans cesse depuis plus de 10 ans, HETIC anticipe et propose un enseignement polyvalent de qualité en 5 ans qui s’adapte à l’évolution du marché des métiers de l'internet.",
+    "location": "27 bis, rue du Progrès<br/>93100 Montreuil",
+    "transport": "Metro 1 : Saint Mande",
+    "contact": "01.41.72.77.71 http://www.hetic.net/ contact@hetic.net",
+    "since": "2002",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "ICH&KAR",
+    "city": "Montreuil",
+    "keywords": [
+      "Design"
+    ],
+    "description": "A graphic design atelier which makes and sells their own unique pieces from; plates, book, stickets, notebooks",
+    "location": "51 rue du sergent Godefroy – 93100 Montreuil",
+    "transport": "RER A : Vincennes",
+    "contact": "studio@ichetkar.fr www.ichetkar.fr",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "ICI MONTREUIL",
+    "city": "Montreuil",
+    "keywords": [
+      "Design",
+      "Arts visuels",
+      "Métier d'art",
+      "Innovation"
+    ],
+    "description": "A collaborative incubator which works towards helping artists,artisans and designers to develop their work.There is also a collaborative workspace which can be rented out and also a restaurant.",
+    "location": "135, bd Chanzy, 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre",
+    "contact": "nicolas@madeinmontreuil.com 33 (6) 81 21 94 32",
+    "since": "2012",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "INNELEC",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Distributeur de jeux video",
+    "location": "45, rue Delizy - 93692 Pantin",
+    "transport": "RER E :",
+    "contact": "http://www.innelec.com",
+    "since": "1983",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "INSTANTS CHAVIRES",
+    "city": "Montreuil",
+    "keywords": [
+      "Musique",
+      "Arts visuels"
+    ],
+    "description": "un lieu de diffusion pensé comme un laboratoire des musiques improvisées, expérimentales, bruitistes.",
+    "location": "7 Rue Richard Lenoir, 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre",
+    "contact": "http://www.instantschavires.com/ 01 42 87 25 91",
+    "since": "1991",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "KNOWTEX",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Knowtex is a community which explores the research advances, industrial design and technological innovations.",
+    "since": "2009"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "L'ATELIER COLECTIF",
+    "city": "Montreuil",
+    "keywords": [
+      "Design"
+    ],
+    "description": "Collectif design",
+    "location": "69 rue Parmentier 93100 Montreuil",
+    "transport": "Métro 9 : Croix-de-Chavaux (Jacques Duclos)",
+    "contact": "T. 09 53 48 90 33 — F. 09 58 48 90 33 contact@lateliercollectif.org",
+    "since": "n/a",
+    "timeFromChatelet": "31 mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LUMIERE DES ROSES",
+    "city": "Montreuil",
+    "keywords": [
+      "Arts visuels",
+      "Photographie"
+    ],
+    "description": "An photography gallery which works around showcasing found photographs of unknown photographers",
+    "location": "12-14 rue Jean-Jacques Rousseau<br/>93100 Montreuil",
+    "transport": "RER A :  Vincennes or Line 9- Robespierre",
+    "contact": "tel : +33 (0) 1 48 70 02 02<br/>Email : contact@lumieredesroses.com http://www.lumieredesroses.com",
+    "since": "2004",
+    "timeFromChatelet": "24mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAISON POPULAIRE",
+    "city": "Montreuil",
+    "keywords": [
+      "Arts visuels",
+      "Spectacle vivant",
+      "Musique",
+      "Education"
+    ],
+    "description": "une association d’éducation populaire",
+    "location": "9 bis rue Dombasle<br/>Montreuil<br/>93100",
+    "transport": "Métro 9 : Mairie de Montreuil",
+    "contact": "01.42.87.08.68 www.maisonpop.fr",
+    "since": "1995",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "MICROIDS",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Producteur et éditeur de jeux vidéo, spécialisé dans les jeux d'aventure",
+    "location": "66 rue Marceau - 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre ou Métro 1 :  Saint Mande",
+    "contact": "http://www.microids.com/ <br/>contact@microids.com",
+    "since": "1992",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "NOUVEAU THEATRE MONTREUIL",
+    "city": "Montreuil",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Is a national public theater (Centre Dramatique National), whose mission is to produce and make circulate performances with contemporary aesthetics.",
+    "location": "10, place Jean-Jaurès<br/>93100 Montreuil et 63, rue Victor Hugo<br/>93100 Montreuil",
+    "transport": "Métro 9 : Mairie de Montreuil",
+    "contact": "www.nouveau-theatre-montreuil.com 01 48 70 48 90 contact@nouveau-theatre-montreuil.com",
+    "since": "2011",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "OOBLADA",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Editeur de jeux sociaux. Notre premier succès, Treasure Madness a lancé dès 2009 le genre 'Chasse aux trésors' sur Facebook.",
+    "location": "4, rue Cuvier<br/>93100 Montreuil sous Bois<br/>France",
+    "transport": "Métro 1 : Berault or Métro 9 : Robespierre",
+    "contact": "Tel: +33 (0)1 42 87 72 94<br/>contact@ooblada.com http://ooblada.com/",
+    "since": "2000",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "REMI FONTAINE",
+    "city": "Montreuil",
+    "keywords": [
+      "Design"
+    ],
+    "description": "Design lumière et produit",
+    "location": "37 bis rue lebour<br/>93100 Montreuil",
+    "transport": "Métro 1 : Sainte Mande",
+    "contact": "06 14 01 32 44  http://www.remifontaine.fr",
+    "since": "2007",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "SALAMATANE",
+    "city": "Montreuil",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Espace culturel et social autogéré",
+    "location": "119 bis rue de Paris 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre",
+    "contact": "http://salamatane.blogspot.fr/",
+    "since": "N/A",
+    "timeFromChatelet": "27mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "SHOOT THE BOSS",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Animation, effets spéciaux",
+    "location": "45 ter, rue de la Révolution- 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre",
+    "contact": "http://www.shoottheboss.com",
+    "since": "2005",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "TETRAEDGE",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Spécialisé dans les jeux sur mobiles.",
+    "location": "66 rue Marceau - 93100 Montreuil",
+    "transport": "Métro 9 : Robespierre or Métro 1 : Saint Mande",
+    "contact": "info@tetraedge.com",
+    "since": "2002",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "UBISOFT",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Créateur de très nombreux jeux vidéo",
+    "location": "28 Rue Armand Carrel, 93100 Montreuil",
+    "transport": "Métro 1 : Saint Mande",
+    "contact": "01 48 18 50 00 https://www.ubisoftgroup.com/en-US/index.aspx",
+    "since": "1986",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "UFO (Urban Fabric Organisation)",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "a start-up from the realm of architecture and urbanism, is taking over the digital culture and the suggestive power of video games to challenge human and environmental issues of a world moving into cities",
+    "location": "2, rue M. Berthelot<br/>93100 Montreuil",
+    "transport": "Métro 9 : Croix de chavaux",
+    "contact": "http://urbanfab.org/ 06 20 80 92 60 hello@urbanfab.org",
+    "since": "2010",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "UMAPS COMMUNICATION",
+    "city": "Montreuil",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "We promote a responsible mediation between technological innovators (laboratories, entrepreneurs, industries), stakeholders (decision-makers, media, partners) and clients.",
+    "location": "104-112, Avenue de la Résistance<br/>93100 Montreuil",
+    "transport": "Métro 9 : Mairie de Montreuil",
+    "contact": "http://en.umaps.fr/",
+    "since": "N/A",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "SALON DE MONTROUGE",
+    "city": "Montrouge",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Manifestation de référence consacrée à la promotion des artistes émergents",
+    "location": "Le Beffroi, 2 Place Emile Cresp,<br/>92120 Montrouge",
+    "transport": "Métro 4 : Station Mairie de Montoruge; Métro 13 : Station Châtillon-Montrouge",
+    "contact": "Commissariat artistique du Salon de Montrouge :<br/>Stéphane Corréard",
+    "since": "1955",
+    "timeFromChatelet": "23mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "MOTS BUEE",
+    "city": "multiple locations",
+    "keywords": [
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "festival dedicated to the poetry of words",
+    "location": "10 different locations in; Champs sur marne,croissy beauborg,émerainville,lognes,noisel,torcy",
+    "transport": "multiple locations",
+    "contact": "motsbuee@valmaubuee.fr www.valmaubuee.fr/festival/‎",
+    "since": "2010",
+    "timeFromChatelet": "DEPENDS ON LOCATION."
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "PARCOURS-EST",
+    "city": "Multiple locations",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Shuttle service to access vernissages in the banlieu",
+    "location": "N/A",
+    "transport": "N/A",
+    "contact": "http://www.parcours-est.com/ resa@parcours-est.com",
+    "since": "2010",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "CYANIDE STUDIO",
+    "city": "Nanterre",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Studio de jeux vidéo",
+    "location": "3, boulevard des Bouvets<br/>92000 Nanterre",
+    "transport": "RER A : Nanterre Prefrecture",
+    "contact": "contactcyanide-studio.com<br/>http://www.cyanide-studio.com",
+    "since": "2000",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LA FERME DU BONHEUR",
+    "city": "Nanterre",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Cinéma"
+    ],
+    "description": "est une cellule de recherche et de réflexion sur l’Homme et la Terre qui utilise la culture sous toutes ses formes (théâtre, musique, danse, arts plastiques, cinéma…)",
+    "location": "220 Avenue De La République 92000 Nanterre",
+    "transport": "RER A : Nanterre Université (sortie 1).",
+    "contact": "http://lafermedubonheur.over-blog.net/ contact@lafermedubonheur.fr",
+    "since": "1993",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LA GALERIE MUNICIPALE VILLA DES TOURELLES",
+    "city": "Nanterre",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "GALLERIE -Centre d’art contemporain",
+    "location": "9 Rue des Anciennes Mairies 92000 Nanterre",
+    "transport": "RER A : Nanterre Ville",
+    "contact": "01 41 37 52 06<br/>arts.plastiques@mairie-nanterre.fr http://www.nanterre.fr/311-la-galerie-municipale-villa-des-tourelles.htm",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LES ARÈNES DE NANTERRE",
+    "city": "Nanterre",
+    "keywords": [
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "cirque",
+    "location": "220 Avenue de la République 92000 Nanterre",
+    "transport": "RER A : Nanterre- Universitaire",
+    "contact": "01 47 21 76 56 http://www.nanterre.fr/530-les-arenes-de-nanterre.htm",
+    "since": "1974",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LES MARMITES ARTISTIQUES",
+    "city": "Nanterre",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Festival pluridisciplinaire organisé par l'association étudiante Hypothemuse",
+    "location": "200 av de la République, bât D, bureau 212b 92000 Nanterre",
+    "transport": "RER A : Nanterre Université. Bus : Ligne N53",
+    "contact": "http://lesmarmitesartistiques.wordpress.com/ progmarmites@gmail.com",
+    "since": "2005",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "NANTERRE SUR SCENE",
+    "city": "Nanterre",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Festival",
+    "location": "200 Avenue de la République, 92000 Nanterre",
+    "transport": "RER A : Nanterre Université",
+    "contact": "fest.nanterresurscene@gmail.com<br/>01 40 97 70 00 http://nanterresurscene.u-paris10.fr/",
+    "since": "2010",
+    "timeFromChatelet": "36mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DES AMANDIERS NANTERRE",
+    "city": "Nanterre",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Théatre d'envergure métropolitaine",
+    "location": "7, avenue Pablo Picasso 92000 Nanterre",
+    "transport": "Metro 1 : la defense; RER A : Nanterre Prefecture; BUS 160, 159, 163 et aussi Navette gratitute",
+    "contact": "01 46 14 70 00 www.nanterre-amandiers.com",
+    "since": "1965",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ATELIERS ARTISTES DE NEUILLY",
+    "city": "Neuilly-sur- Seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "location": "167, av Charles de Gaulle, 92200, Neuilly-sur-Seine",
+    "contact": "http://www.neuillysurseine.fr/culture dac@ville-neuillysurseine.fr 01 55 62 61 22",
+    "timeFromChatelet": "24mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "CAFÉ DE LA JATTE",
+    "city": "Neuilly-sur- Seine",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "A restaurant hidden on the island of Jatte in Neuilly, specializing in fine Italian cuisine.",
+    "location": "Ile de la Jatte – 60, bd Vital Bouhot<br/>92200 Neuilly-Sur-Seine",
+    "transport": "Métro 3 : Pont de Levallois Becon",
+    "contact": "(Reservations) Carole 01 47 45 04 20 http://cafejatte.com/ reservations@cafejatte.com",
+    "since": "1980's",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "LA GUINGUETTE",
+    "city": "Neuilly-sur- Seine",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "Cuisine Française",
+    "location": "12, boulevard Georges Seurat, Neuilly-sur-Seine",
+    "transport": "Métro 1 : Pont de Neuilly",
+    "contact": "01 46 24 25 04 info@laguinguette.net www.la-guinguette-de-neuilly.com",
+    "since": "1997",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "LE VILLAGE A NEUILLY",
+    "city": "Neuilly-sur- Seine",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "A chic brasserie with a marriage between the traditional and modern",
+    "location": "175 avenue Charles de gaulle, 92200 Neuilly-Sur-Seine",
+    "transport": "Métro 1 : M° Pont de Neuilly",
+    "contact": "http://villageneuilly.com/",
+    "since": "1961",
+    "timeFromChatelet": "23mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "BALT'ART",
+    "city": "Nogent-sur-Marne",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "SALON",
+    "location": "12 avenue Victor Hugo<br/>94130 Nogent sur Marne",
+    "transport": "RER A : Nogent sur Marne; Ligne 114 Depuis Chateau de Vincennes – Direction Le Raincy-Villemomble-Montfermeil; RER jusqu’à Place du General Leclerc<br/>(10 mn)",
+    "contact": "http://www.baltart-art.eu/"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAISON D'ART BERNARD ANTHONIOZ",
+    "city": "Nogent-sur-Marne",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Lieu d’exposition dédié à la création contemporaine",
+    "location": "16 Rue Charles VII, 94130 Nogent-sur-Marne",
+    "transport": "RER A : Nogent sur Marne puis bus N°114 ou 210;<br/>RER E : Nogent Le Perreux, 10 minutes à pied direction centre ville  (rue Charles de Gaulle) puis descendre boulevard Gallieni;<br/>Métro 1 : Chateau de Vincennes puis bus N°114 ou 210",
+    "contact": "01 48 71 90 07<br/>maison-dart-bernard-anthonioz@wanadoo.fr<br/>www.ma-bernardanthonioz.com/",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "DIGITAL MEDIA SOLUTIONS",
+    "city": "Noisiel",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Digital Media Solutions is specialized in the conception, the manufacturing and the commercialization of 2D and 3D audio solutions, for the cinema, Hi-Fi, V.I.P Home Cinema , Television and Music industries.",
+    "location": "45 Grande Allée du 12 Février 1934, 77186 Noisiel",
+    "transport": "RER E : Noisel",
+    "contact": "45 Grande Allée du 12 Février 1934<br/>77186 Noisiel - France Mail : infos@dms-cinema.com<br/>Tel : +33 (0)1 80 81 52 40"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LA FERME DU BUISSON",
+    "city": "Noisiel",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique",
+      "Cinema",
+      "Arts visuels"
+    ],
+    "description": "Véritable hub créatif d'envergure métropolitaine proposant un large programme d'exposition d'art contemporain, théâtre, danse, cirque, cinéma, rencontres, résidences, etc.",
+    "location": "Scène nationale de Marne-la-Vallée <br/>Allée de la Ferme <br/>77 186 Noisiel",
+    "transport": "RER E : Noisel",
+    "contact": "01 64 62 77 00 <br/>contact@lafermedubuisson.com<br/>www.lafermedubuisson.com",
+    "since": "N/A",
+    "timeFromChatelet": "44MINS"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LA GALERIE CENTRE D'ART CONTEMPORAIN DE NOISY-LE SEC",
+    "city": "Noisy-le-Sec",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "centre d’art contemporain et lieu de résidence pour des artistes et des commissaires d'exposition étrangers. Membre du réseau Tram",
+    "location": "1 RUE JEAN-JAURÈS <br/>93130 NOISY-LE-SEC",
+    "transport": "RER E : Noisy le sec",
+    "contact": "TEL : +33 (0)1 49 42 67 17<br/>MAIL : LAGALERIE@NOISYLESEC.FR<br/>http://www.noisylesec.net/index.php?id_rub=galerie&id_com=262",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "OPOSITO",
+    "city": "Noisy-le-Sec",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Oposito provokes new encounters, oves weaving new ties, mixing people and genres. It upholds its will to carry on telling cities the stories they have taken the risk to co-write.",
+    "location": "53, rue de Merlan<br/>93130 Noisy-le-Sec FRANCE",
+    "transport": "RER E : Noisy le Sec",
+    "contact": "http://www.oposito.fr/ (0)1 48 02 80 96",
+    "since": "1983",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "CENTRE CULTUREL ARAGON-TRIOLET",
+    "city": "Orly",
+    "keywords": [
+      "Musique",
+      "Cinema",
+      "Spectacle vivant"
+    ],
+    "description": "Le centre culturel propose une programmation éclectique en théâtre, cinéma, danse, musique, variétés et spectacles destinés au jeune public ; une action culturelle forte.",
+    "location": "1 Place du Fer à Cheval, 94310 Orly",
+    "transport": "RER C : Orly Ville",
+    "contact": "01 48 90 24 20 http://www.centre-culturel-orly.fr/ reservations@centre-culturel-orly.fr"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "INVENTEURS DU MONDE NUMÉRIQUE",
+    "city": "Palaiseau",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "A public science and technology institution dedicated to computational sciences and research",
+    "location": "1 rue Honoré d'Estienne d'Orves<br/>Bâtiment Alan Turing<br/>Campus de l'École Polytechnique<br/>91120 Palaiseau",
+    "transport": "RER B : Massy Palaiseau, puis prendre le bus 91-06 (B ou C)",
+    "contact": "http://www.inria.fr/",
+    "since": "1967",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "BANLIEUES BLEUES",
+    "city": "Pantin",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "Banlieues Bleues soutient et accompagne la création et la diffusion de concerts de musique vivante et innovante,",
+    "location": "9 Rue Gabrielle Josserand, 93500 Pantin",
+    "transport": "Métro 5 : Aubervilliers - Pantin 4 chemins",
+    "contact": "http://www.banlieuesbleues.org/",
+    "since": "1988",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "CENTRE NATIONAL DE LA DANSE PANTIN / ÎLE-DE-FRANCE",
+    "city": "Pantin",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Le Centre national de la danse s’adresse à l’ensemble des acteurs du secteur chorégraphique du spectacle vivant.",
+    "location": "1, rue Victor-Hugo<br/>93500 Pantin",
+    "transport": "Métro 5 : Hoche;<br/>RER E : Pantin; Bus 170 et 151 : Centre national de la Danse;<br/>ou Tram T3b : Delphine Seyrig et Ella Fitzgerald - Grands Moulins de Pantin",
+    "contact": "01 41 83 27 27 http://www.cnd.fr",
+    "since": "1998",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "FOCUS HOME INTERACTIVE",
+    "city": "Pantin",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Editeur de jeux vidéo",
+    "location": "100, avenue du Général Leclerc<br/>93692 Pantin Cedex",
+    "transport": "RER E- Pantin",
+    "contact": "01 48 10 59 69 edition@focus-home.com<br/>http://www.focus-home.com",
+    "since": "1996",
+    "timeFromChatelet": "27mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "HERMES",
+    "city": "Pantin",
+    "keywords": [
+      "Design",
+      "Métiers d'arts"
+    ],
+    "description": "Atelier de création de la prestigieuse scellerie, et résidence d'artiste (voir le Petit H)",
+    "location": "12 Rue Auger  93500 Pantin",
+    "transport": "ligne 5; hoche",
+    "contact": "01 49 42 87 42 www.hermes.com/‎",
+    "since": "1992",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "LA DYNAMO DE BANLIEUES BLEUES/FESTIVAL UMLAUT : PETER ABLINGER",
+    "city": "Pantin",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A music festival organized by Umlaut records which is based in Paris, Stockholm and Berlin.",
+    "location": "La dynamo de banlieues bleues<br/>9 Rue Gabrielle Josserand - 93500 Pantin",
+    "transport": "Métro 7-: Aubervilliers Pantin (4 chemin)",
+    "contact": "http://93.agendaculturel.fr/festival/festival-umlaut-peter-ablinger.html",
+    "since": "2010",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "LA MAISON REVEL",
+    "city": "Pantin",
+    "keywords": [
+      "Design",
+      "Metiers d'art"
+    ],
+    "description": "Provides financial, professional and promotional support to artisans in Pantin and in the Seine-Saint-Denis département, offering advice on management, accounting and business development, plus exhibitions, workshop visits and lectures.",
+    "location": "56, av. Jean-Jaurès 93500 Pantin",
+    "transport": "Métro 7 : Aubervilliers-Pantin-Quatre Chemins",
+    "since": "2008"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LA MENUISERIE",
+    "city": "Pantin",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "La Menuiserie est un petit théâtre de poc",
+    "location": "77 rue Jules Auffret 93500 Pantin",
+    "transport": "Métro 11: Mairie des Lilas; Métro 5 : Église de Pantin;<br/>bus 61 arrêt Jean Jaurès ou bus 249 arrêt les Pommiers;<br/>station vélib au niveau du bus 61 arrêt Jean Jaurès",
+    "contact": "www.lamenuiserie.org info@lamenuiserie.org",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "LEMON TRI",
+    "city": "Pantin",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Lemon tri est une jeune startup dans le domaine du développement durable. Nous proposons aux entreprises et établissements secondaires un service de tri sélectif innovant et incitatif.",
+    "location": "24 rue Davoust 93500 Pantin",
+    "transport": "RER E : Pantin; Métro 7 <br/>Station AUBERVILLIERS<br/>PANTIN 4 CHEMINS Tram. T3b<br/>Station ELLA FITZGERALD<br/>Grands Moulins de Pantin",
+    "contact": "www.lemontri.fr/ info@lemontri.fr 01 48 43 87 37",
+    "since": "2010",
+    "timeFromChatelet": "28mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Design",
+    "label": "STUDIO BRICHETZIEGLER",
+    "city": "Pantin",
+    "keywords": [
+      "Design"
+    ],
+    "description": "Seeking to make the exchange and discussion at the center of their research, they created an open space for reflection that allows them to approach projects with a new ambition and poetry",
+    "location": "27 avenue Jean Jaurès 93300 Aubervilliers",
+    "transport": "Aubervilliers-Pantin-Quatre Chemins",
+    "contact": "http://www.studiobrichetziegler.com/ contact@brichetziegler.com",
+    "since": "2010",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "THADDAEUS ROPAC",
+    "city": "Pantin",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Galerie d'Art contemporain parisienne et autrichienne ayant investi une ancienne fabrique à Pantin. Artistes d'envergure internationale. Café agréable.",
+    "location": "69, avenue du Général Leclerc 93500 Pantin",
+    "transport": "RER E- direction Chelles ou Villiers sur Marne Metro station eglise de pantin",
+    "contact": "www.ropac.net Communications Laura Bertaux laura@ropac.net",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "WORLD TRADE+TECHNOLOGIES",
+    "city": "Pantin",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Distributeur de jeux vidéo",
+    "location": "34, rue des Grilles - 93500 Pantin",
+    "transport": "Line 5- Hoche",
+    "contact": "http://www.wtt-france.com/",
+    "since": "1989",
+    "timeFromChatelet": "32mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "XANDRIE",
+    "city": "Pantin",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Distributeur de jeux vidéo",
+    "location": "5, rue Delizy<br/>93692 Pantin",
+    "transport": "Line 5- Eglise de Pantin",
+    "contact": "http://allbrary.fr/",
+    "since": "2012",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "JAZZ SESSION-LA MEZZANINE",
+    "city": "Pierrelaye",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "Un concert gratuit suivi d'une jazz session, tous les jeudis à Pierrelaye",
+    "location": "42 bis, rue Victor Hugo 95480 Pierrelaye",
+    "transport": "RER C et la ligne SNCF Paris-Nord / Pontoise.",
+    "contact": "06 16 06 09 38  http://jazz-session.org/ jazzsession@sfr.fr",
+    "since": "almost 20 years",
+    "timeFromChatelet": "1h11mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "L'APOSTROPHE- THEATRE DES LOUVRAIS",
+    "city": "Pointoise",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Organize the diffusions and artistic confrontation between artistic forms inspiring their contemporary creation.",
+    "location": "Place de la Paix, 95300 Pontoise",
+    "transport": "RER A Direction Cergy-le-Haut<br/>arrêt en gare de Cergy-Préfecture<br/>prendre le bus n°42 quai B, direction Victor Hugo",
+    "contact": "01 34 20 14 14  accueil@lapostrophe.net Billetterie  01 34 20 14 14 / Administration  01 34 20 14 25",
+    "since": "1960",
+    "timeFromChatelet": "1h20"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CENTRE PHOTOGRAPHIQUE D'ILE DE FRANCE",
+    "city": "Pontault-Combault",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Intéresse à la recherche, la production et la diffusion de projets artistiques liés à la photographie contemporaine",
+    "location": "07 Avenue République  77340 Pontault-<br/>Combault",
+    "transport": "RER E : Emerainville - Pontault-Combault ; RER A Direction Marne-la-Vallée - Chessy.  Bus : 206",
+    "contact": "01 70 05 49 80<br/>contact@cpif.net<br/>http://www.cpif.net/",
+    "timeFromChatelet": "53mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LES SALAISONS",
+    "city": "Romainville",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "les artistes contemporains, pour la création et l'exposition.",
+    "location": "25 avenue du Président Wilson <br/>93230 Romainville",
+    "transport": "Bus 105 depuis Mairie des Lilas<br/>direction Mairie des Pavillons-Sous-Bois<br/>jusqu’à Liberte",
+    "contact": "www.salaisons.org",
+    "timeFromChatelet": "29mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE D'ARTS DE RUEIL-MALMAISON SYNAPSE",
+    "city": "Rueil-Malmaison",
+    "keywords": [
+      "Education"
+    ],
+    "description": "artistic residency with partnership",
+    "location": "3 rue du prince Eugène<br/>92500 rueil-malmaison",
+    "transport": "RER A- La Défense then the bus 258",
+    "contact": "http://www.earueil.com/ 01 55 47 14 80 cnap.fr (residency)t. 33 (0)1 55 47 14 80",
+    "timeFromChatelet": "52mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE MATTHIEU DUBUC",
+    "city": "Rueil-Malmaison",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "art contemporain",
+    "location": "10-12 rue du Maréchal Foch<br/>92 500 Rueil Malmaison",
+    "transport": "RER A Rueil Malmaison",
+    "contact": "(0)1 47 08 22 16 contact@maisondesmuses.com http://www.maisondesmuses.com/",
+    "since": "2008",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "PUCE MUSE",
+    "city": "Rungis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "As a hosting centre, PUCE MUSE welcomes musicians, researchers, composers, and artists interested in M3V. As a place for transmission, PUCE MUSE trains musicians and graphic designers to use the Meta-Mallette, it assists professionals in getting inter-generation groups to perform with music and visuals together.",
+    "location": "2, rue des Pyrénées, SILIC 520 / Wissous<br/>94623 Rungis",
+    "transport": "Rungis - La Fraternelle",
+    "contact": "01.45.12.04.50 contact@pucemuse.com http://www.pucemuse.com/ http://facebook.com/pucemuse",
+    "since": "NA/",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ANIMAKT",
+    "city": "Saulx-les-Chartreux",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Supporting artists by providing them with a space to create.",
+    "location": "1 Rue du Lieutenant Emile Fontaine 91160 Saulx-les-Chartreux",
+    "transport": "RER B Massy-Palaiseau",
+    "contact": "http://www.animakt.fr/ 01 64 48 71 01 // contact@animakt.fr",
+    "since": "1999"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FESTIVAL ORANGERIE",
+    "city": "Sceaux",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "A summer musical festival created in response to an absence of programmation of musical activities during the summer in Paris.",
+    "location": "8 Avenue Claude Perrault, 92330",
+    "transport": "RER B - Bourg-la-Reine",
+    "contact": "http://www.festival-orangerie.fr/ contact@festival-orangerie.fr 01 46 60 00 11",
+    "since": "1969",
+    "timeFromChatelet": "25mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "LES GEMEAUX",
+    "city": "Sceaux",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Les Gémeaux produisent ou coproduisent nombre de spectacles pour la plupart inédits en France ou en région parisienne, beaucoup d’entre eux y sont des créations.Festival Les Rendez-Vous Chorégraphiques.",
+    "location": "49, avenue Georges Clemenceau, 92330 Sceaux",
+    "transport": "RER B, Direction Robinson,<br/>Saint-Rémy-lès-Chevreuse ou Massy-Palaiseau. Station : Bourg-la-Reine.",
+    "contact": "http://www.lesgemeaux.com/ Administration : 01 46 60 05 64",
+    "since": "1994",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "FESTIVAL DES RÊVEURS ÉVEILLÉS",
+    "city": "Sevran",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "A festival dedicated for children between the ages of 3-6 years old.Showcasing contemproary art made for kids.",
+    "location": "Salle des fêtes, 9 rue Gabriél-Péri",
+    "transport": "RER B - Sevran-Livry",
+    "contact": "http://www.ville-sevran.fr/festival-des-reveurs-eveilles-2013",
+    "since": "1991",
+    "timeFromChatelet": "39mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LA GÉNÉRALE EN MANUFACTURE",
+    "city": "Sevres",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Communauté artistique qui s'intéresse à l'art et aux études politiques, aux pratiques de la ville et à l'urbanisme, et plus largement aux pratiques critiques, et à la part d'indéfini qui devient une possibilité d'expérimentation.",
+    "location": "6, grande rue<br/>Sèvres<br/>92310<br/>France",
+    "transport": "Métro ligne 9 - Station Pont de Sèvres<br/>Tramway ligne T2 - Arrêt Musée de Sèvres",
+    "contact": "N/A",
+    "since": "2008",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "LE SEL SEVRES",
+    "city": "Sevres",
+    "keywords": [
+      "Cinema",
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "A cultural space which provides movie viewings and also live theater and dance performances.",
+    "location": "47 Grande Rue<br/>92310 Sèvres",
+    "transport": "Métro 9 - Pont de Sèvres.<br/>Bus // 171 ou 26 Traverciel, arrêt Mairie de Sèvres.<br/>Train // Gare Montparnasse, arrêt Sèvres Rive Gauche. <br/>.............Gare Saint Lazare, arrêt de Sèvres - Ville d’Avray<br/>Tram // Val de Seine : arrêt Musée de Sèvres",
+    "contact": "www.sel-sevres.org 01 41 14 32 32 sel@sel-sevres.org",
+    "since": "n/a",
+    "timeFromChatelet": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "STRATE COLLEGE",
+    "city": "Sevres",
+    "keywords": [
+      "Education"
+    ],
+    "description": "a private industrial design university",
+    "location": "27 avenue de la division Leclerc, 92310 Sèvres",
+    "transport": "SNCF Montparnasse : Station : Bellevue<br/>- METRO : line 9, Station : Pont de sèvres<br/>- TRAM : T2, Val de seine- la Défense, station : Musée de Sèvres or Brimborion",
+    "contact": "www.stratecollege.fr info@stratecollege.fr 0 1 46 42 88 77",
+    "since": "1993",
+    "timeFromChatelet": "49mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "PEPINIERES EUROPEENNES POUR JEUNES ARTISTES",
+    "city": "St Cloud",
+    "keywords": [
+      "Arts visuels",
+      "Cinema"
+    ],
+    "description": "The Pépinières program focuses on contemporary artistic movements and is intended for emerging artists in all disciplines.",
+    "location": "BP 80132<br/>Domaine national de Saint-Cloud<br/>92216 St Cloud",
+    "contact": "www.art4eu.net/+33 (0)1 41 12 29 33   info@art4eu.net",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "QUAI OUEST",
+    "city": "St Cloud",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "A floating restaurant has an open air deck so that you can enjoy sunny weather to the full.",
+    "location": "1200 quai Marcel Dassault - Saint-Cloud",
+    "transport": "(T2 Les Milons) ou RER Issy-Val de Seine",
+    "contact": "quaiouestrestaurant92@gmail.com http://www.quai-ouest-restaurant.com/ 01 46 02 35 54",
+    "since": "1993",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "ROCK EN SEINE",
+    "city": "St Cloud",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "FESTIVAL",
+    "location": "Domaine national de Saint-Cloud",
+    "transport": "LIGNE 10 : Gare d’Austerlitz / Boulogne – Pont de St Cloud.<br/>Stop : Boulogne – Pont de St-Cloud",
+    "contact": "contact@rockenseine.com www.rockenseine.com",
+    "timeFromChatelet": "34mins<br/>6B",
+    "undefined": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "BANQUE DU MIEL",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "An artistic project which has grown into other parts of Europe. Placing the bee as a new indicator of the richness of its surrounding environment. A project which mixes art with the fabrication of honey.",
+    "location": "25, rue Roland Vachette<br/>93200 - SAINT-DENIS",
+    "transport": "Line 13-St.Denis Porte de Paris",
+    "contact": "www.banquedumiel.org  01 42 35 84 34<br/>E-mail > contact@banquedumiel.org",
+    "since": "2009",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "CAFÉ CULTUREL",
+    "city": "St Denis",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "Structure entièrement tournée vers la création et la promotion des cultures urbaines.",
+    "location": "La Fabrik<br/>15 rue Gisquet<br/>93200 Saint Denis",
+    "transport": "Gare de Saint-Denis (RER D, Ligne H)<br/>Tramway 1 Station Théâtre Gérard Philipe",
+    "contact": "01 42 43 96 11  info@cafeculturel.org",
+    "since": "1998",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "CITE DU CINEMA",
+    "city": "St Denis",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "un lieu entièrement dédié a la creation du cinéma",
+    "location": "20 rue ampère 93200 Saint Denis",
+    "contact": "N/A",
+    "since": "2012",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "COCHENKO",
+    "city": "St Denis",
+    "keywords": [
+      "Education",
+      "Spectacle vivant"
+    ],
+    "description": "le Cochenko explore différents espaces en intervenant avec les habitants sur la place publique, lieu de vie et de rencontre, afin de construire des «utopies ordinaires».",
+    "location": "4 bis rue Roland Vachette <br/>93200 Saint-Denis",
+    "transport": "Ligne 13- St.Denis-Porte de Paris",
+    "contact": "http://www.cochenko.fr/ <br/>collectif@cochenko.fr<br/>09.54.37.54.09",
+    "since": "2007",
+    "timeFromChatelet": "38mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Metiers d'art",
+    "label": "LA BRICHE",
+    "city": "St Denis",
+    "keywords": [
+      "Metiers d'art"
+    ],
+    "description": "Ateliers de créateurs et constructeurs",
+    "location": "65 rue Paul Eluard 93200 St Denis",
+    "contact": "brichons@gmail.com<br/>http://bricheforaine.wordpress.com",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "LE LABEX ARTS-H2H",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Le Labex Arts-H2H se propose d’articuler les recherches en arts (cinéma, arts plastiques, musique, théâtre, danse, littérature, photographie, nouvelles technologies...)",
+    "location": "2 rue de la Liberté<br/>93526 St Denis",
+    "transport": "Line 13-Saint-Denis-Universite",
+    "contact": "http://www.labex-arts-h2h.fr/artsh2h@univ-paris8.fr<br/>01 49 40 73 30",
+    "since": "N/A",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "LE TRANSFO",
+    "city": "St Denis",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant",
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "Squat artistique, salle de concert, salle de réunion, espace enfant, espace peinture et banderoles, une cantine et un ciné tournés vers les habitants du quartier, un labo photo, un infokiosque, une bibliothèque technique, un atelier de métallerie, un magasin gratuit",
+    "location": "57 avenue de la République, St Denis",
+    "transport": "Métro Gallieni",
+    "contact": "www.transfo.squat.net 06 72 53 02 40.",
+    "since": "nov. 2012.",
+    "timeFromChatelet": "50mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "LEDEN",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Orienter les activités de recherche vers les besoins des établissements culturels et éducatifs et des institutions chargées de la diffusion des fonds patrimoniaux",
+    "location": "Maison des Sciences de l’Homme Paris Nord 4 rue de la Croix-Faron<br/>93210 La Plaine saint-Denis",
+    "transport": "Line 13-Saint-Denis-Universite",
+    "contact": "contact@leden.org http://leden.org/  01 55 93 93 04",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "LINKFLUENCE FRANCE",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Social Media Intelligence = capture, sort, analyze, represent social data to create value.",
+    "location": "Tour Pleyel<br/>153 Boulevard Anatole France<br/>93200 Saint-Denis",
+    "transport": "RER B- La Plaine-Stade de France",
+    "contact": "http://linkfluence.com/",
+    "since": "2006",
+    "timeFromChatelet": "44mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musee et patrimoine",
+    "label": "MUSEE D'ART ET HISTOIRE",
+    "city": "St Denis",
+    "keywords": [
+      "Musee et patrimoine"
+    ],
+    "description": "Archéologie et céramiques médiévales. Souvenirs de l'ancien Carmel et de Madame Louise de France. Commune de Paris.",
+    "location": "22 bis rue Gabriel-Péri <br/>93200 Saint-Denis",
+    "transport": "Saint-Denis - Porte de Paris (13)",
+    "contact": "www.musee-saint-denis.fr"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "PARTI POETIQUE",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "A collection of artists,thinkers and doers united around the thematic question of bees and their surrounding environment.",
+    "location": "N/A",
+    "transport": "N/A",
+    "contact": "http://www.parti-poetique.org/ contact@parti-poetique.org",
+    "since": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "PLAINE COMMUNE",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Working on urban large-scale projects, project structuring transport and urban renewal programs promoting the development of urban communitties since its inception.",
+    "location": "21 avenue Jules-Rimet Saint Denis",
+    "transport": "RER B-La Plaine-Stade de France",
+    "contact": "01 55 93 55 55 http://www.plainecommune.fr/",
+    "since": "2003"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "SYNESTHESIE",
+    "city": "St Denis",
+    "keywords": [
+      "Arts visuels",
+      "Innovation",
+      "Education"
+    ],
+    "description": "Galerie d’art virtuel, Revue des arts numériques.",
+    "location": "1 ter Place du Caquet<br/>93200 Saint-Denis",
+    "transport": "Métro 13 : arrêt Basilique de Saint-Denis<br/>Tram T1 : arrêt basilique Saint-Denis<br/>Bus : 153, 253, arrêt basilique Saint-Denis / Hôtel de ville",
+    "contact": "01 40 10 80 78<br/>communication@synesthesie.com<br/>www.synesthesie.com",
+    "timeFromChatelet": "34mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "T3D MEDICAL",
+    "city": "St Denis",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "Present in the electronic sector as well as researching and developing new projects.",
+    "location": "78/80 avenue du Président Wilson<br/>93214 Saint Denis La Plaine",
+    "transport": "Line 12: Front Popularie",
+    "contact": "www.t3dmedical.com 0 1 48 20 83 18",
+    "since": "2011",
+    "timeFromChatelet": "30mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE GERARD PHILIPE",
+    "city": "St Denis",
+    "keywords": [
+      "Spectacle vivant",
+      "Musique"
+    ],
+    "description": "theatre",
+    "location": "59 bd Jules Guesde - 93207 Saint-Denis cedex",
+    "transport": "SNCF H- Saint Denis, Line 13- Saint Denis Basilique, RER D Creil/ Station Saint Denis",
+    "contact": "http://www.theatregerardphilipe.com/tgp-cdn/ 01 48 13 70 00",
+    "since": "1960",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "UNIVERSITY PARIS 8",
+    "city": "St Denis",
+    "keywords": [
+      "Education",
+      "Innovation"
+    ],
+    "description": "psychoanalysis, urban planning, geopolitics, cinema, plastic arts, gender studies, etc.",
+    "location": "2 rue de la Liberté - 93526 Saint-Denis",
+    "transport": "Ligne 13, Châtillon Montrouge - St-Denis Université, arrêt St-Denis Université  Ligne 1, St-Denis RER/SNCF - Noisy-le-Sec RER, arrêt Marché de St-Denis puis bus 255, arrêt St-Denis Université ou arrêt St-Denis Basilique, puis métro ligne 13, arrêt St-Denis Université<br/>Ligne de Paris-Nord, arrêt Gare de St-Denis, correspondanceavec la ligne d’autobus 255, arrêt St-Denis Université<br/>RER ligne D, Melun/Malesherbes - Orry-la-Ville, arrêt Garede St-Denis, correspondance avec la ligne d’autobus 255, arrêt St-Denis Université",
+    "contact": "http://www.univ-paris8.fr/ +33(0)1 49 40 67 89",
+    "since": "1968",
+    "timeFromChatelet": "35mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "UNVERSITY PARIS 8",
+    "city": "St Denis",
+    "keywords": [
+      "Education"
+    ],
+    "description": "To this day, Université Paris 8 has always insisted on maintaining a strong link between research and teaching, adapting teaching methods to different kinds of audiences, and providing education for all at every stage of life.",
+    "location": "2 rue de la Liberté - 93526 Saint-Denis",
+    "transport": "Line 13- Saint Denis Universite",
+    "contact": "http://www.univ-paris8.fr/ 33(0)1 49 40 67 89",
+    "since": "1969 but 1980(St.Denis)",
+    "timeFromChatelet": "37mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Fooding",
+    "label": "BRASSERIE DU THEATRE",
+    "city": "St Germain-en-Laye",
+    "keywords": [
+      "Fooding"
+    ],
+    "description": "French cuisine (brasserie)",
+    "location": "13/19 rue de la Salle <br/>78100 SAINT GERMAIN EN LAYE",
+    "transport": "Station Saint-Germain en Laye (RER A)",
+    "contact": "http://brasseriedutheatre-78100.com/  01 30 61 28 00",
+    "since": "1989",
+    "timeFromChatelet": "48mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "MAINS D'OEUVRES",
+    "city": "St Ouen",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant",
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "Centre dédié aux cultures alternatives : Concerts, Performance, Festival, Artistes et Association en résidences",
+    "location": "1 rue Charles Garnier - 93400 Saint-Ouen",
+    "transport": "M° Porte de Clignancourt (4) ou Garilbaldi (13), Bus 85, Vélib (rue Blanqui)",
+    "contact": "http://www.mainsdoeuvres.org/article1947.html"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "FABRIQUE DES IMPOSSIBLES",
+    "city": "St Ouen",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Association promouvant et formant aux pratiques artistiques collaboratives et citoyennes.",
+    "location": "1 rue Charles Garnier - 93400 Saint-Ouen",
+    "transport": "M° Porte de Clignancourt (4) ou Garilbaldi (13), Bus 85, Vélib (rue Blanqui)",
+    "contact": "http://www.mainsdoeuvres.org/article1947.html"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FESTIVAL DES PUCES",
+    "city": "St Ouen",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "jazz music festival",
+    "transport": "Gare de Villepinte jusqu'a Tennis",
+    "contact": "www.festivaldespuces.com",
+    "timeFromChatelet": "51mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "ATLAS",
+    "city": "St Ouen",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "centre municipal de culture scientifique",
+    "location": "7 rue de l’Union st.ouen",
+    "transport": "métro : ligne 13, direction Saint-Denis, station Mairie de Saint-Ouen<br/>bus : ligne 85, terminus Mairie de Saint-Ouen et ligne 166, arrêt rue de l’Union",
+    "contact": "http://atlas93.wordpress.com/  01 71 86 63 40",
+    "timeFromChatelet": "31mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "ESPACE 1789",
+    "city": "St Ouen",
+    "keywords": [
+      "Cinema",
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "lieu de création et de diffusion artistique",
+    "location": "4/6 rue Alexandre Bachelet<br/>93400 –Saint-Ouen",
+    "transport": "Line 4; Porte de clingancourt",
+    "contact": "http://www.espace-1789.com/",
+    "timeFromChatelet": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LE CHÂTEAU",
+    "city": "St Ouen",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Le Château présente des expositions monographiques",
+    "location": "12 rue Albert Dhalenne 93400 Saint-Ouen",
+    "transport": "En métro<br/>- ligne 13, station Garibaldi<br/>puis 5 minutes à pied<br/>- ligne 4, station Pte de Clignancourt, puis bus 85<br/>En bus<br/>ligne 85 ou 187 arrêt Ernest-Renan<br/>En RER<br/>ligne C station Saint-Ouen puis bus 173 ou 174 {Mairie de Saint-Ouen}",
+    "contact": "http://www.saint-ouen.fr/sorties-et-loisirs/culture/lieux-culturels/espaces-d-expositions/ 01 49 48 95 25",
+    "since": "1989",
+    "timeFromChatelet": "1h04"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MAINS D'OEUVRE",
+    "city": "St Ouen",
+    "keywords": [
+      "Arts visuels",
+      "Spectacle vivant",
+      "Musique",
+      "Education"
+    ],
+    "description": "Lieu de création et de diffusion, de recherche et d’expérience destiné à accueillir des artistes de toutes disciplines, des démarches associatives et citoyennes,",
+    "location": "1, rue Charles Garnier - 93400 Saint-Ouen",
+    "transport": "metro: ligne 13 or 4 bus 85 ou noctilien 14 velib",
+    "contact": "www.mainsdoeuvres.org 01 40 11 25 25 info@mainsdoeuvres.org",
+    "since": "2005",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "ABBAYE DE MAUBUISSON",
+    "city": "St Ouen-l'Aumône",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "site d'art contemporain",
+    "location": "Rue Richard-de-Tour<br/>Saint-Ouen-l'Aumône<br/>95310",
+    "transport": "REC C > direction Pontoise > descendre à la gare de Saint-Ouen-l'Aumône (après Saint-Ouen-l'Aumône/Liesse) puis marcher 10 mn à pied en suivant la rue Guy-Sourcis Depuis Cergy-Pontoise, bus 56, 57, 58 ou 34 sud > <br/>arrêt mairie de Saint-Ouen-l'Aumône puis marcher 10 mn à pied en suivant la rue Guy-Sourcis",
+    "contact": "00 33 (0)1 34 64 36 10 www.valdoise.fr abbaye.maubuisson@valdoise.fr",
+    "since": "1987",
+    "timeFromChatelet": "1h04"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "THEATRE DE SAINT-QUENTIN-EN-YVELINES",
+    "city": "St Quentin",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant"
+    ],
+    "description": "Le Théâtre de Saint- Quentin-en-Yvelines, Scène nationale est un des lieux de diffusion et de création artistique majeurs de la région parisienne.",
+    "location": "Place Georges Pompidou - CS 80317<br/>78054 Saint Quentin en Yvelines Cedex",
+    "transport": "RER Ligne C, arrêt gare de Saint-Quentin-en-Yvelines.Depuis la gare Montparnasse (ligne Montparnasse-Rambouillet). Arrêt gare de Saint-Quentin-en-Yvelines.<br/>Depuis La Défense (ligne La Défense-La Verrière). Arrêt gare de Saint-Quentin-en-Yvelines.",
+    "contact": "http://www.theatresqy.org/ 01 30 96 99 00 administration tél. : 01 30 96 99 30<br/>Mail:administration@tsqy.org<br/>accueil billetterie Tél. : 01 30 96 99 00 Mail : accueil@tsqy.org",
+    "since": "1960",
+    "timeFromChatelet": "1h10mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "STUDIO THEATRE DE STAINS",
+    "city": "Stains",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "location": "19, rue Carnot<br/>93240 Stains",
+    "transport": "Navette<br/>Une navette aller-retour gratuite est à disposition les soirs de représentation Ligne 13 Station Saint-Denis Université puis Bus 253 ou 255 Direction Stains, arrêt Mairie de Stains. Ligne D, arrêt Pierrefitte/Stains puis bus 150, arrêt Mairie de Stains<br/>Ligne B, arrêt La Courneuve puis bus 150, arrêt Mairie de Stains",
+    "contact": "www.studiotheatrestains.fr/‎ 01 48 23 06 61",
+    "since": "1984"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DE SURESNES",
+    "city": "Suresnes",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "location": "16 Place Stalingrad, 92150 Suresnes",
+    "transport": "Navette gratuite* Paris – Suresnes – Paris<br/>De Paris à Suresnes<br/>• départ de la navette : 45 mn précises avant l’heure de la représentation, à l’angle de l’avenue Hoche et de la place Charles de Gaulle-Etoile, à proximité du métro et du RER (pour une représentation à 21h, départ de la navette à 20h15).<br/>• arrêt à Suresnes : arrêt du bus bd Henri Sellier, pour les Suresnois et les usagers du Tram (Val-de-Seine, gare Suresnes-Longchamp), 25 mn précises avant l’heure de la représentation. <br/>NB : la navette du Théâtre ne fonctionne ni pour les spectacles Jeune Public, ni pour les rencontres autour des spectacles (répétitions publiques…)",
+    "contact": "01 46 97 98 10 www.theatre-suresnes.fr/‎",
+    "since": "1938 nouveau thatre était inaugree en 1990.",
+    "timeFromChatelet": "47mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "CENTRE CULTUREL DE TAVERNY",
+    "city": "Taverny",
+    "keywords": [
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "centre culturel",
+    "location": "191 rue de Paris 95150 Taverny",
+    "contact": "01.39.60.42.49<br/>mlc.taverny@free.fr   http://www.ville-taverny.fr/fr/sortir-loisirs/culture/le-centre-culturel",
+    "timeFromChatelet": "1hr 06mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "RHIZOME",
+    "city": "Torcy",
+    "keywords": [
+      "Arts visuels",
+      "Spectacle vivant",
+      "Education"
+    ],
+    "description": "Pôle d'arts plastiques et visuels de la MJC. Il a pour mission de rendre accessible les arts plastiques et visuels et plus largement l’art contemporain.",
+    "location": "Ferme du Couvent - 22 rue du Couvent, 77200 Torcy, France",
+    "transport": "Prendre la ligne A Direction Chessy / Marne la Vallée<br/>Descendre à la station \"Torcy\", puis Prendre le bus 220 (arrêt Mairie / Place de l'Eglise) puis 5 min. de marche. Ou , prendre le bus 421 (arrêt Clos / Ferme du Couvent)",
+    "contact": "01 60 05 14 69 – Courriel : rhizomemjc@gmail.com http://www.rhizome.fr/",
+    "since": "n/a",
+    "timeFromChatelet": "42mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRAL DU VAL D'OISE",
+    "city": "Val D'oise",
+    "keywords": [
+      "Spectacle vivant"
+    ],
+    "description": "organisateur du Drolatic! Festival",
+    "location": "Dans de nombreuses villes du Val D'oise ( 41 villes du département)",
+    "transport": "depending on location and event",
+    "contact": "01 34 20 01 08        festivaltheatralduvaldoise@yahoo.fr - www.thea-valdoise-public.org/",
+    "since": "1983",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "ARMADILLO",
+    "city": "Vanves",
+    "keywords": [
+      "Innovation"
+    ],
+    "description": "specializes in the creating structures for databases.",
+    "location": "46 bis, rue de la République<br/>92 170 Vanves",
+    "transport": "Métro 12 : Arrêt Corentin Celton<br/>Bus 189 : Arrêt République (direction Clamart Pompidou)<br/>Bus 126 : Arrêt Maréchal Delattre de Tassigny (direction porte d’Orléans)",
+    "contact": "http://armadillo.fr/ 01 46 62 03 26 contact@armadillo.fr",
+    "since": "1988",
+    "timeFromChatelet": "40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "L'ASSOCIATION ŒUVRE PARTICIPATIVE",
+    "city": "Vanves",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "\"Œuvre ensemble\" évoque une certaine idée de l’art, un art qui invite ceux qui le souhaitent à participer à l'oeuvre.",
+    "location": "43 rue Henri Martin 92170 Vanves",
+    "transport": "LIGNES 13 Malakoff Plateau de Vanves",
+    "contact": "01 46 38 99 82 ou 06 80 46 63 58",
+    "since": "2010",
+    "timeFromChatelet": "36mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "THEATRE DE VANVES",
+    "city": "Vanves",
+    "keywords": [
+      "Spectacle vivant",
+      "Cinema",
+      "Musique",
+      "Education"
+    ],
+    "description": "Véritable tremplin reconnu pour la jeune création contemporaine en théâtre, danse et musique. Deux salles à 8mn à pied l'une de l'autre. Festival Ardanthé.",
+    "location": "Théâtre: 12 rue Sadi Carnot - 92170 Vanves. Salle Panopée : 11 avenue Jézéquel - 92170 Vanves.",
+    "transport": "Métro ligne 13 : Malakoff - Plateau de Vanves (puis 8 mn à pied), Métro 12 : Corentin-Celton (puis 8 mn à pied)<br/>Bus 58 : Lycée Michelet<br/>Bus 89 : Square de l'Insurrection<br/>Bus 126 : Mairie de Vanves - Centre administratif<br/>Bus 189 : Place du Maréchal-De-Lattre-de-Tassigny - N62 (Noctambus) : Mairie de Vanves - Centre administratif (après 23h30)<br/>Train Gare SNCF Vanves-Malakoff (4mn depuis Montparnasse)<br/>Vélib – Autolib",
+    "contact": "www.theatre-vanves.fr",
+    "timeFromChatelet": "PANOPÉE- 36mins Theatre-40mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "ART SCIENCE FACTORY",
+    "city": "VARIOUS LOCATIONS",
+    "keywords": [
+      "Innovation",
+      "Arts visuels"
+    ],
+    "description": "Biennale",
+    "location": "20"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Www.lasciencedelart.info",
+    "label": "LOCATIONS WITHIN ESSONNE",
+    "city": "depending on location and event",
+    "keywords": [
+      "Www.lasciencedelart.info"
+    ],
+    "description": "1999",
+    "location": "DEPENDS ON LOCATION."
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "ATMOSPHERE FESTIVAL",
+    "city": "Various locations",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "The sole objective of this festival is to present for free to the biggest public possible a vision of a future durable world expressed through various mediums of art.",
+    "location": "Cinéma Abel Gance-184 Bd St Denis - 92400 Courbevoie or Espace Carpeaux<br/>15 Boulevard Aristide Briand<br/>92400 Courbevoie Also takes places at La Defense",
+    "transport": "SNCF L- Becon les bruyeres",
+    "contact": "www.atmospheresfestival.com",
+    "since": "2010",
+    "timeFromChatelet": "33mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "FESTIVAL AFRICOLOR",
+    "city": "Various Locations",
+    "keywords": [
+      "Musique",
+      "Cinema"
+    ],
+    "description": "Festival",
+    "location": "various locations; Université Paris 13,",
+    "transport": "N/A",
+    "contact": "www.africolor.com",
+    "since": "2009",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "JAZZ EN BOUCLE",
+    "city": "Various locations",
+    "keywords": [
+      "Musique",
+      "Cinema"
+    ],
+    "description": "Festival",
+    "location": "various locations",
+    "transport": "n/a",
+    "contact": "33 (0) 1 48 89 99 10 33 (0) 1 48 89 22 11 http://www.jazzenboucle.com/",
+    "since": "2008",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "TRACE",
+    "city": "Various locations in the Hauts-de-Seine",
+    "keywords": [
+      "Musique",
+      "Arts visuels"
+    ],
+    "description": "It is not just a festival but a space and event to highlight the musical creativity happening in Hauts-de-Seine",
+    "location": "various locations",
+    "transport": "various locations",
+    "contact": "www.reseau92.com/trace",
+    "since": "2000",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "FESTIVAL CINEBANLIEUE",
+    "city": "Various Locations; Porte des lilas/ Aubervilliers/ St Denis",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "Festival",
+    "location": "99, avenue JB Clément, 93430 Villetaneuse",
+    "transport": "Porte des lilas/Ligne 11/Aubervilliers Quatre-chemins/Ligne 7/Basilique de Saint-Denis/Ligne 13",
+    "contact": "www.cinebanlieue.org",
+    "since": "2006",
+    "timeFromChatelet": "20mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "SONS D'HIVER",
+    "city": "Various Locations; Vincennes, Rungis, Vitry-sur-seine, Choisy-le-roi, Arcueil..",
+    "keywords": [
+      "Musique"
+    ],
+    "description": "festival du musique dans val-de-marne",
+    "location": "various locations from",
+    "transport": "various locations",
+    "contact": "www.sonsdhiver.org",
+    "since": "1991",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Festival",
+    "label": "FESTIVAL MÉTIS",
+    "city": "Various locations/Saint Denis",
+    "keywords": [
+      "Festival"
+    ],
+    "description": "A festival which takes place to raise awareness of present projects through; soundpainting and masterclasses. Providing a showcase for different artists and locations",
+    "location": "Multiple locations",
+    "transport": "Multiple locations",
+    "contact": "www.metis-plainecommune.com 01 48 13 12 10",
+    "since": "2004",
+    "timeFromChatelet": "N/A"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Spectacle vivant",
+    "label": "L'ONDE",
+    "city": "Vélizy-Villacoublay",
+    "keywords": [
+      "Spectacle vivant",
+      "Arts visuels"
+    ],
+    "description": "centre d’art contemporain et theatre",
+    "location": "8 Avenue Louis Breguet, 78140 Vélizy-Villacoublay",
+    "transport": "RER C  - arrêt Chaville-Vélizy. <br/>Puis 10 min, bus cvj ou czi - direction Vélizy, arrêt Robert Wagner                                      Navette gratuite au départ de Concorde les soirs de vernissage et de créations. service de covoiturage de Vélizy-Villacoublay",
+    "contact": "01 34 58 03 35<br/>www.londe.fr",
+    "since": "2003",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Innovation",
+    "label": "BULKYPIX",
+    "city": "Versailles",
+    "keywords": [
+      "Innovation",
+      "Jeux video"
+    ],
+    "description": "Editeur de jeux vidéo",
+    "location": "6, avenue de Sceaux<br/>78000 Versailles",
+    "transport": "RER C- Versailles Rive Gauche",
+    "contact": "http://www.bulkypix.com  01 34 65 93 34<br/>contact@bulkypix.com",
+    "since": "2008",
+    "timeFromChatelet": "51mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE NATIONALE SUPERIEURE D'ARCHITECTURE DE VERSAILLE",
+    "city": "Versailles",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Its primary goal is to train architects<br/>capable of exercising a range of<br/>professional practices and ready to<br/>accomplish new assignments in order to<br/>meet the ecological and sociological<br/>intricacies of the surrounding world.",
+    "location": "5 avenue de Sceaux<br/>78006 Versailles",
+    "transport": "RER C : gare de Versailles-Rive Gauche",
+    "contact": "00 33 (0)1 39 07 40 00 http://www.versailles.archi.fr/",
+    "since": "1969",
+    "timeFromChatelet": "54mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ECOLE NATIONALE SUPERIEURE DE PAYSAGE",
+    "city": "Versailles",
+    "keywords": [
+      "Education"
+    ],
+    "description": "Elle forme des concepteurs en paysage intervenant aussi bien sur les parcs et jardins que sur les grands territoires et les espaces publics urbains ou ruraux.",
+    "location": "10, rue du Maréchal Joffre 78000 Versailles <br/>",
+    "transport": "RER C : gare de Versailles-Rive Gauche",
+    "contact": "Email: b.blanchon@versailles.ecole-paysage.fr <br/>Website:www.versailles.ecole-paysage.fr <br/>Contact Person: Bernadette Blanchon-Caillot",
+    "since": "1976",
+    "timeFromChatelet": "59mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Education",
+    "label": "ISIPCA",
+    "city": "Versailles",
+    "keywords": [
+      "Education"
+    ],
+    "description": "ISIPCA has become nationally and internationally recognized for its vocational courses and research in Perfumery, Cosmetics and Food Flavours.",
+    "location": "34/36 Rue du Parc de Clagny<br/>78000 Versailles, France",
+    "transport": "SNCF La Maye",
+    "contact": "http://www.isipca.fr/",
+    "since": "1970",
+    "timeFromChatelet": "56mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "LA MARECHALERIE",
+    "city": "Versailles",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Centre d'Art contemporain attaché à l'Ecole d'Architecture. Membre du réseau Tram.",
+    "location": "5 avenue de Sceaux<br/>78000 Versailles",
+    "transport": "RER C: Versailles - Rive Gauche Gare de Versailles rive droite Gare de Versailles Chantiers Autobus 171 en provenance du Pont <br/>de Sèvres",
+    "contact": "01.39.07.40.27 lamarechalerie.versailles.archi.fr/",
+    "timeFromChatelet": "51mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Musique",
+    "label": "ESPACE SORANO",
+    "city": "Vincennes",
+    "keywords": [
+      "Musique",
+      "Spectacle vivant",
+      "Arts visuels",
+      "Education"
+    ],
+    "description": "espace multi-disciplinaire",
+    "location": "16, rue Charles Pathé<br/>94300 VINCENNES",
+    "transport": "RER A : Vincennes<br/>Métro Ligne 1 : Bérault, Château de Vincennes<br/>BUS : 46, 56, 112, 114, 115, 118, 124, 210, 215, 318, 325",
+    "contact": "Tél : 01 43 74 73 74<br/>www.espacesorano.com<br/>info@espacesorano.com",
+    "since": "n/a",
+    "timeFromChatelet": "25 min"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Cinema",
+    "label": "PRIX HENRI LANGLOIS",
+    "city": "Vincennes",
+    "keywords": [
+      "Cinema"
+    ],
+    "description": "film festival",
+    "location": "1-15 rue Raymond du Temple, 94300 Vincennes",
+    "transport": "Line 1; Chateau de Vincennes",
+    "contact": "www.prixhenrilanglois.org, 33 (1) 43 98 27 37 mb.p@wanadoo.fr",
+    "since": "2006",
+    "timeFromChatelet": "23mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "GALERIE MUNICIPALE JEAN COLLET",
+    "city": "Vitry sur seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "un lieu d’expositions d’art contemporain.",
+    "location": "59 avenue Guy-Moquet<br/>94400 Vitry-sur-Seine",
+    "transport": "RER C vitry sur seine then take the bus 180 arrêt Église",
+    "contact": "01 43 91 15 33<br/>galerie.municipale(at)mairie-vitry94.fr<br/>http://galerie.vitry94.fr/",
+    "since": "N/A",
+    "timeFromChatelet": "41mins"
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "Spot/Arts visuels",
+    "label": "MACVAL",
+    "city": "Vitry sur seine",
+    "keywords": [
+      "Arts visuels"
+    ],
+    "description": "Vaste musée d’art contemporain",
+    "location": "Place de la Libération<br/>94404 Vitry-sur-Seine",
+    "transport": "Ligne 7 (dir. Mairie d’Ivry) ou tramway T3, arrêt Porte de Choisy. Puis bus 183, arrêt MAC/VAL.<br/>Ligne 7 (dir. Villejuif) arrêt terminus. Puis bus 180 (dir. Charenton-Ecole) ou bus 172 (vers Créteil-Echat), arrêt MAC/VAL.<br/>Ligne 8 (dir. Créteil-Préfecture) arrêt Liberté. Puis bus 180 (dir. Villejuif), arrêt MAC/VAL.<br/>RER C : gare de Vitry / Seine. Puis bus 180 (dir. Villejuif/Louis aragon), arrêt MAC/VAL.<br/>RER D : gare de Maisons-Alfort / Alfortville. Puis bus 172 (dir. Bourg-la-Reine RER), arrêt Henri de Vilmorin.",
+    "contact": "01 43 91 64 20<br/>contact@macval.fr www.macval.fr/",
+    "since": "November 17, 2005.",
+    "timeFromChatelet": "43mins"
+  }
+}]

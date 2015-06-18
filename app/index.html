@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Paris Galaxies</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"></meta>
+<meta charset="utf-8"></meta>
+
+<link rel="stylesheet" href="./lib/js/bootstrap/dist/css/bootstrap.css"></link>
+
+
+<link rel="stylesheet" type="text/css"
+	href="lib/js/jQuery-chocolat/css/chocolat.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="lib/js/leaflet/leaflet.css"
+	media="screen" />
+
+<link rel="stylesheet" type="text/css" href="css/style.css"
+	media="screen" />
+<link href="./css/index.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="lib/js/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.modal.js"></script>
+<script type="text/javascript" src="lib/js/leaflet/leaflet-src.js"></script>
+<script type="text/javascript" src="lib/js/underscore/underscore.js"></script>
+<script type="text/javascript" src="lib/js/q/q.js"></script>
+<script type="text/javascript" src="lib/js/iCheck/icheck.min.js"></script>
+<script type="text/javascript"
+	src="lib/js/jQuery-chocolat/js/jquery.chocolat.js"></script>
+<script type="text/javascript" src="js/jquery.throttledresize.js"></script>
+<script type="text/javascript" src="js/jquery.popover.js"></script>
+<script type="text/javascript" src="lib/js/mosaic-ui/js/Mosaic.js"></script>
+<script type="text/javascript"
+	src="lib/js/leaflet.utfgrid/dist/leaflet.utfgrid.js"></script>
+
+<script src="./index.js" type="text/javascript"></script>
+
+<script src="js/functions.js"></script>
+
+<style type="text/css">
+[data-panel="MapView"] {
+	background-color: white;
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: #eee;
+}
+</style>
+
+
+</head>
+<body>
+	<div class="wrapper">
+		<div class="top-zone container-full">
+			<div class="row menu-desktop" style="overflow: hidden;">
+				<div class="col-md-10 col-lg-10">
+					<div class="header">
+						<img src="images/header-1.png" alt="">
+					</div>
+				</div>
+
+				<div class="col-md-2 col-lg-2 align-right">
+					<div class="about">
+						<a href="#" onclick="return modal.open('modal-about')"><img
+							src="images/about.png" alt=""></a>
+					</div>
+					<div>
+						<button type="submit"
+							class="btn btn-default btn-lg bouton embed-map"
+							style="margin-top: 12px;">
+							Insérer carte<br /> <i>Embed map</i>
+						</button>
+						<br>
+						<button type="submit"
+							class="btn btn-default btn-lg bouton propose-spot"
+							style="margin-top: 5px;">
+							Proposer un lieu<br /> <i>Submit an address</i>
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="row menu-mobile">
+				<div class="switcher left">
+					<div class="toggle-sidebar">MAP</div>
+				</div>
+				<div class="logo-mobile left">
+					<img src="images/logo-mobile.png" alt="">
+				</div>
+				<h1 class="title-mobile left">Paris Galaxies</h1>
+
+				<div class="menu-mobile right">
+					<div class="popover-trigger" data-popover="1"
+						data-popover-position="down"></div>
+					<div class="popover-target popover-topzone-menu" data-popover="1">
+						<div class="popover-content">
+							<ul>
+								<li><a href="#" class="about">À propos...</a></li>
+								<li><a href="#" class="propose-spot">Proposer un spot</a></li>
+							</ul>
+						</div>
+						<div class="popover-pointer"></div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="middle-zone container-full">
+
+			<div id="map" data-panel="MapView"
+				data-center="[2.16171865463257,48.765032363996]" data-zoom="10"
+				data-min-zoom="2" data-max-zoom="20" data-zoom-control="topright">
+
+				<!-- Carte -->
+				<div data-map-layer="background" data-visible="true"
+					data-tiles-url="https://{s}.tiles.mapbox.com/v3/rbw.hcodc7p1/{z}/{x}/{y}.png"
+					data-force-reload="true">
+					<div class="attribution">
+						&copy; <a href="http://www.openstreetmap.org">OpenStreetMap</a>
+					</div>
+				</div>
+
+
+				<!-- Spots -->
+				<div data-map-layer="spots" data-visible="true"
+					data-tiles-url="../tiles/layers/spots/{z}/{x}/{y}.png"
+					data-utfgrid-url="../tiles/layers/spots/{z}/{x}/{y}.grid.json?callback={cb}"
+					data-force-reload="true">
+					<div class="attribution">
+						<a href="#">Paris Galaxies</a>
+					</div>
+				</div>
+
+			</div>
+
+
+
+			<!-- 
+			<div id="map" data-center="[2.0462677001953125,48.560649275706926]"
+				data-zoom="9" data-min-zoom="2" data-max-zoom="20"
+				data-panel="MapView" data-zoom-control="topright">
+
+				<div data-map-layer="background" data-visible="true"
+					data-tiles-url="https://{s}.tiles.mapbox.com/v3/rbw.hcodc7p1/{z}/{x}/{y}.png"
+					data-force-reload="false">
+					<div class="attribution">
+						Données &#150; &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>
+						| Map style design &#150; &copy; <a href="http://stamen.com">Stamen</a>
+					</div>
+				</div>
+
+				<div data-map-layer="info" data-visible="true"
+					data-source-url="./data/data1.json" data-cluster-points="true"
+					data-force-reload="true"
+					data-cluster-points="false">
+					<div class="attribution">Ubimix</div>
+				</div>
+			</div>
+ -->
+
+		</div>
+		<div class="left-zone">
+			<div class="left-zone-content open">
+				<div class="filters">
+					<ul class="categories">
+						<li class="category">
+							<div class="icon cube cube-1"></div>
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Architecture (urbanisme),Monument,Patrimoine">
+							</div>
+							<div class="label">ARCHITECTURE &amp; MONUMENTS</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-2"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Arts visuels,Art Contemporain,Art,Exposition,Exhibition">
+							</div>
+							<div class="label">
+								ARTS VISUELS - <em>VISUAL ARTS</em>
+							</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-3"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Cinema,Film">
+							</div>
+							<div class="label">
+								CINEMA - <em>MOVIE THEATER</em>
+							</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-4"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Spectacle vivant,Spectacle Vivant,Danse,Théâtre,Performance">
+							</div>
+							<div class="label">
+								SPECTACLE VIVANT - <em>THEATER &amp; DANCE</em>
+							</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-5"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Musique,Concerts,Fêtes,Parties,Nuit,Boîte de Nuit,Nightclub,Salle de Fête">
+							</div>
+							<div class="label">
+								CONCERTS &amp; FÊTES - <em>MUSIC &amp; PARTIES</em>
+							</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-6"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Food,Fooding,Restaurant,Café">
+							</div>
+							<div class="label">
+								FOODING - <em>CREATIVE RETAURANTS</em>
+							</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-7"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Education,Workshop,Ateliers,Ecole,School">
+							</div>
+							<div class="label">EDUCATION &amp; WORKSHOPS</div>
+						</li>
+						<li class="category">
+							<div class="icon cube cube-8"></div>
+
+							<div class="checkb">
+								<input type="checkbox" data-search-trigger="type"
+									data-search-value="Design,Innovation,Jeux Video">
+							</div>
+							<div class="label">DESIGN &amp; INNOVATION LABS</div>
+						</li>
+					</ul>
+
+					<div class="searchbar">
+						<div class="input-wrapper">
+							<input type="text" id="search-input">
+						</div>
+						<div class="icon-reset"></div>
+						<div class="icon-loupe"></div>
+					</div>
+				</div>
+			</div>
+			<div class="places" id="list" data-panel="ListView"></div>
+
+		</div>
+	</div>
+
+	<div class="modals">
+		<div class="modal-bg modal-landing">
+			<div class="modal-container">
+				<div class="modal-border-1">
+					<div class="modal-inner">
+						<div class="modal-content">
+							<div class="row">
+								<div class="col-12 col-md-12">
+									<p>
+										Vous souhaitez faire apparaître une nouveau hotspot sur la
+										carte Paris Galaxies, merci de nous envoyer un mail à <a
+											href="mailto:parisgalaxies@liid.fr">parisgalaxies@liid.fr</a>
+										indiquant :
+									<ul>
+										<li>Nom du lieu, Adresse, Site internet.</li>
+										<li>Contact et nom d'un correspondant (notamment pour
+											vous tenir au courant de l'évolution de la carte).</li>
+										<li>Accès en transport en commun et temps depuis Chatelet
+											(chiffre à obtenir facilement sur <a
+											href="http://www.ratp.fr">ratp.fr</a>)
+										<li>Disciplines artistique et/ou domaine créatif.</li>
+										<li>Brève description de la programmation (voir la taille
+											des bandeaux d'information sur la carte).</li>
+										<li>Une image vignette de 80x80 pixel, et un ou plusieurs
+											bandeau-image de 150x330px.</li>
+									</ul>
+								</div>
+							</div>
+
+							<div class="align-center" style="display: none;">
+								<a href="#" class="modal-close">Fermer</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal-bg modal-embed">
+			<div class="modal-container">
+				<div class="modal-border-1">
+					<div class="modal-inner">
+						<div class="modal-content">
+							<div class="row">
+								<div class="col-12 col-md-12">
+									<h3>Code d’embarquement à copier et coller dans votre site
+										:</h3>
+									<div>
+										<textarea rows="5" class="code embed"
+											style="color: black; width: 100%;">
+                                            &lt;iframe width="1025"
+                                                height="800"
+                                                src="http://parisgalaxies.ubimix.com/app"
+                                                frameborder="0"&gt;&lt;/iframe&gt;
+                                        </textarea>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="align-center" style="display: none;">
+								<a href="#" class="modal-close">Fermer</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="modal-bg modal-about">
+			<div class="modal-container">
+				<div class="modal-border-1">
+					<div class="modal-inner">
+						<div class="modal-content">
+							<div class="row">
+								<div class="col-12 col-md-12">
+									<p>
+										Paris Galaxies est une initiative du LIID/Laboratoire
+										d'Ingénierie d'Idées (<a href="http://www.liid.fr">www.liid.fr</a>),
+										qui a constitué une database des 300 hotspots créatifs du
+										Grand Paris, à l'occasion d'un projet de recherche artistique
+										et universitaire sur l'imaginaire et le futur du Grand Paris.
+										Ce projet a été mené en complicité avec l'Institut ACTE (Art,
+										Création, Théorie, Esthétique) de l'Université Paris 1
+										Panthéon Sorbonne, le Paris College of Art, et a reçu le
+										soutien de la Ville de Paris (programme de recherche Paris
+										2030). <br /> Site du projet de recherche : <a
+											href="http://www.parisgalaxies.net">www.parisgalaxies.net</a>
+									</p>
+									<p>
+										Cette carte, réalisée en collaboration avec la société <a
+											href="http://ubimix.com">Ubimix</a> spécialisée dans la
+										création d'outils cartographique web, a pour but de rendre
+										visible la communauté et la vitalité créative d'un Grand Paris
+										en marche, et peut être facilement insérée dans d'autres site
+										web, en attendant d'autre développement... à suivre... Pour
+										toute information complémentaire, soumettre un nouveau
+										hotspot, proposer un partenariat ou un plan sur la comète : <a
+											href="mailto:parisgalaxies@liid.fr">parisgalaxies@liid.fr</a>
+									</p>
+								</div>
+							</div>
+
+							<div class="align-center" style="display: none;">
+								<a href="#" class="modal-close">Fermer</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+	</div>
+
+
+
+	<div id="templates" style="display: none;">
+		<div id="ParentTemplate">
+			<script type="text/javascript">
+                ({
+                    renderText : function(elm) {
+                        this._elm = elm;
+                        //elm.text('Now :' + new Date());
+                    },
+                    renderTitle : function(elm) {
+                        var resource = this.getResource();
+                        elm.html(resource.properties.label);
+                    },
+                    renderDescription : function(elm) {
+                        var resource = this.getResource();
+                        elm.html(resource.properties.description);
+                    },
+                    sayHello : function(e) {
+                        alert('Hello, there! ' + this._elm.text())
+                    },
+                    renderTags : function(elm) {
+                        var resource = this.getResource();
+                        var keywords = resource.properties.keywords||[];
+                        elm.html(keywords.join(', '));
+                    },
+
+                    renderAddress : function(elm) {
+                        var resource = this.getResource();
+                        elm.html(resource.properties.location);
+                    },
+
+                    renderTransport : function(elm) {
+                        var resource = this.getResource();
+                        elm.html(resource.properties.transport);
+                    }
+                })
+            </script>
+		</div>
+
+		<div data-resource-type="Default" data-view="MapActivePopupView"
+			data-extends="#ParentTemplate">
+			<h3 data-render="renderTitle">Title</h3>
+			<p data-render="renderTags">tags</p>
+		</div>
+
+		<div data-resource-type="Spot" data-view="ListItemView">
+			<script type="text/javascript">
+                ({
+
+                    renderLabel : function(elm) {
+                        var resource = this.getResource();
+                        elm.html(resource.properties.label);
+                    },
+                    renderUrl : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.url)
+                            elm.remove();
+                        else 
+                            elm.html(resource.properties.url);
+                    },
+                    renderAddress : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.location)
+                            elm.remove();
+                        else 
+                            elm.html(resource.properties.location);
+                    },
+                    
+                    renderAccess : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.transport)
+                            elm.remove();
+                        else 
+                            elm.html(resource.properties.transport);
+                    },
+                    
+                    renderTime : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.time)
+                            elm.remove();
+                        else 
+                            elm.html('From Chatelet: '+resource.properties.time);
+                    },
+                    
+                    renderCategory : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.keywords)
+                            elm.remove();
+                        else 
+                            elm.html(resource.properties.keywords.join(', '));
+                    },
+                    
+                    renderDescription : function(elm) {
+                        var resource = this.getResource();
+                        if (!resource.properties.description)
+                            elm.remove();
+                        else 
+                            elm.html(resource.properties.description);                        
+                    },
+                    
+                    renderNumber : function(elm)  {
+                        var resource = this.getResource();
+                        //if (!resource.properties.counter)
+                        //    elm.remove(); 
+                        //else 
+                        elm.html(resource.properties.number);
+                    },
+                    
+/*                     scrollToOpenedItem : function() {
+                        var container = $('.left-zone-content'),
+                        scrollTo = $('.place.open');
+                        var scrollTop = scrollTo.offset().top - container.offset().top + container.scrollTop();
+                        container.animate({scrollTop : scrollTop}, 500);
+                        //container.scrollTop();
+                    },
+ */
+                    onActivateResource : function() {
+                        console.log('ACTIVATE RESOURCE')
+                        this.body.addClass('open');
+                        // setTimeout(this.scrollToOpenedItem, 200);
+                    },
+                    
+                    onDeactivateResource : function() {
+                        this.body.removeClass('open');
+                    },
+                    
+                    saveBody : function(elm) {
+                        this.body = elm;
+                        
+                    },
+                    
+                    renderVignette : function(elm) {
+                        var resource = this.getResource();
+                        var vignette = resource.properties.vignette;
+                        if (vignette) {
+                            var html = "<div class=\"right image\" style=\"background-image: url(images/vignettes/"+vignette+");\"></div>";
+                            elm.html(html);
+                        }
+                          
+                    },
+                    
+                    renderSlideshow : function(elm) {
+                        var resource = this.getResource();
+                        
+                        var bandeau = resource.properties.bandeau;
+                        
+                        if (bandeau) {
+                            var html = "<div class=\"une-image\" style=\"background-image: url(images/bandeaux/"+bandeau+");\"></div>";
+                            elm.html(html);
+                        } else {
+                            elm.parent().parent().remove();
+                        }
+                    },
+                    
+                    prepareSlideshow : function(elm) {
+                        var resource = this.getResource();
+                        var bandeau =  resource.properties.bandeau;
+                        if (Array.isArray(bandeau)) {
+                            // slideshow
+                            elm.find('.une-image').addClass('active').first().fadeIn();
+    
+                            elm.find('.go-right').on('click', function(){
+                                var lastImg =  elm.find('.une-image').length;
+                                var currentImg = elm.find('.une-image').index(elm.find('.une-image.active'));
+    
+                                if(currentImg < lastImg - 1){
+                                    var nextImg = currentImg + 1;
+                                }
+                                else{
+                                    var nextImg = 0;
+                                }
+    
+                                elm.find('.une-image.active').removeClass('active').fadeOut()
+                                elm.find('.slideshow .une-image:eq('+nextImg+')').addClass('active').fadeIn();
+                            });
+                            elm.find('.go-left').on('click', function(){
+                                var lastImg =  elm.find('.une-image').length;
+                                var currentImg = elm.find('.une-image').index(elm.find('.une-image.active'));
+    
+                                if(currentImg < lastImg + 1){
+                                    var nextImg = currentImg - 1;
+                                }
+                                else{
+                                    var nextImg = lastImg;
+                                }
+    
+                                elm.find('.une-image.active').removeClass('active').fadeOut();
+                                elm.find('.une-image:eq('+nextImg+')').addClass('active').fadeIn();
+                            });
+                        } else {
+                            elm.find('.une-image').addClass('active').first().fadeIn();
+                            elm.find('.go-left').remove();
+                            elm.find('.go-right').remove();
+                        }
+                        
+                        
+                    }
+                    
+                })
+            </script>
+			<div class="place" data-render="saveBody"
+				data-rendered="prepareSlideshow">
+				<div data-render="renderVignette"></div>
+				<div class="desc" data-action-click="activateResource">
+					<div class="number left">
+						<div class="the-number" data-render="renderNumber">365</div>
+					</div>
+					<div class="text">
+						<div class="title">
+							<span data-render="renderLabel">Lorem Ipsum</span>
+
+							<div class="url right">
+								<a href="" data-render="renderUrl">www.lorem.com</a>
+							</div>
+						</div>
+						<div class="tags" data-render="renderCategory">Arts Visuels</div>
+						<div class="adresse" data-render="renderAddress">Rue de la
+							ferme 77168 Noisel</div>
+
+						<div class="acces">
+							Acces : <span data-render="renderAccess">RER E - Noisel</span>
+
+							<!-- <div class="from right">From Chatelet : <span data-render="renderFrom"></span></div> -->
+						</div>
+
+						<div class="acces">
+							<div data-render="renderTime"></div>
+
+						</div>
+
+						<div class="url">
+							<a href="" data-render="renderUrl">www.lorem.com</a>
+						</div>
+						<div class="description" data-render="renderDescription">Le
+							Lorem Ipsum est simplement du faux texte employé dans la
+							composition et la mise en page avant impression.</div>
+
+						<div class="slideshow">
+							<div class="go-right">&gt;</div>
+							<div class="go-left">&lt;</div>
+							<div class="slideshow-container">
+								<div data-render="renderSlideshow"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+		</div>
+	</div>
+</body>
+</html>

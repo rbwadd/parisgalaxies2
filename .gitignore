@@ -1,0 +1,5 @@
+node_modules
+app/lib
+scripts/node_modules
+project.tilepin.*.xml
+npm-debug.log

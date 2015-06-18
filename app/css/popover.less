@@ -1,0 +1,32 @@
+// == CODE
+.popover-trigger{
+    cursor: pointer;
+}
+.popover-target{
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    display: none;
+    z-index: 1001;
+
+    .popover-content{
+        background: #AAA5EF;
+    }
+    .popover-pointer{
+        width: 10px;
+        height: 6px;
+        display: block;
+        background: url(../images/pointer.png);
+        position: absolute;
+    }
+    &.popover-down{
+        .popover-pointer{
+            top: -0px;
+        }
+    }
+    &.popover-up{
+        .popover-pointer{
+            bottom: -0px;
+        }
+    }
+}

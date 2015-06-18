@@ -1,0 +1,92 @@
+/***********************************************************************************/
+/*                 Show / Hide divs at differents breakpoints                      */
+/***********************************************************************************/
+
+.visible-sm,
+.visible-md,
+.visible-lg{
+    display: none;
+}
+
+.hidden-sm,
+.hidden-md,
+.hidden-lg{
+    display: block;
+}
+
+.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}
+
+.screen-lg {
+    // visible-lg
+
+    .visible-sm,
+    .visible-md,
+    .visible{
+        display: none;
+    }
+    .visible-lg{
+        display: block;
+    }
+
+    // hidden-lg
+    .hidden-sm,
+    .hidden-md,
+    .hidden{
+        display: block;
+    }
+    .hidden-lg{
+        display: none;
+    }
+}
+
+.screen-md {
+    // visible-md
+
+    .visible-sm,
+    .visible-lg,
+    .visible{
+        display: none;
+    }
+     .visible-md{
+        display: block;
+    }   
+
+    // hidden-md
+    .hidden-sm,
+    .hidden-lg,
+    .hidden{
+        display: block;
+    }
+    .hidden-md{
+        display: none;
+    }
+}
+
+
+.screen-sm {
+    // visible-sm
+
+    .visible-md,
+    .visible-lg,
+    .visible{
+        display: none !important;
+    }
+     .visible-sm{
+        display: block !important;
+    } 
+
+    // hidden-sm
+    .hidden-md,
+    .hidden-lg,
+    .hidden{
+        display: block !important;
+    }
+    .hidden-sm{
+        display: none !important;
+    } 
+}

@@ -1,0 +1,47 @@
+var _ = require('underscore');
+var MosaicDistil = require('mosaic-distil');
+var Utils = require('mosaic-distil/transform-utils');
+var Q = require('q');
+var dataFolder = '../data';
+
+var dbWriter = new MosaicDistil.DbWriteListener({
+    url : "postgres://postgres@localhost/paris-galaxies",
+    rebuildDb : true
+});
+
+listener = new MosaicDistil.LogListener({
+    listener : dbWriter,
+});
+function close() {
+    dbWriter.close();
+}
+
+var dataSets = [ ParisGalaxiesConfig() ];
+var dataProvider = new MosaicDistil.JsonDataProvider({
+    dataSets : dataSets,
+    dataFolder : dataFolder,
+    forceDownload : true
+})
+return dataProvider.handleAll(listener).fail(function(err) {
+    console.log(err.stack);
+}).done();
+
+function ParisGalaxiesConfig() {
+    return Utils.newDataSet({
+        'path' : 'features.json',
+        transform : function(object) {
+            var that = this;
+            object.properties.type = that.getType(object.properties);
+            console.log(object.properties.type);
+            return Q(object);
+        },
+        getType : function(props) {
+            //var disc = props.disciplines.split('/');
+            var disc = props.disciplines.split(/[\/;]/);
+            var type = disc[0];
+            type = type.replace(/\s/gim, '-');
+            type = type.toLowerCase();
+            return "spot/"+type;
+        }
+    });
+}
